@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "CampusBikes – Fallstudie"
+  author: "Julian Langenhagen"
+  date: today
+  favicon: assets/Logo_CampusBikes.png
+  chapters:
+    - index.qmd
+    - 01-grundlagen.qmd
+    - 02-kostenarten.qmd
+    - 03-kostenstellen.qmd
+    - 04-kostentraeger.qmd
+    - 05-erfolgsrechnung.qmd
+    - 06-controlling.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/campusbikes-style.scss
+    toc: true
+    lightbox: true
+    number-sections: false
+    code-fold: true
+    logo: assets/Logo_CampusBikes.png
+
+lang: de
+execute:
+  echo: false
+  warning: false
+  message: false

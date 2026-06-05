@@ -1,0 +1,1236 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Kapitel 4 – Kostenträgerrechnung – CampusBikes – Fallstudie</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./05-erfolgsrechnung.html" rel="next">
+<link href="./03-kostenstellen.html" rel="prev">
+<link href="./assets/Logo_CampusBikes.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-a05f1c524aa1a3c8c757a0e8a1a1323f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Keine Treffer",
+    "search-matching-documents-text": "Treffer",
+    "search-copy-link-title": "Link in die Suche kopieren",
+    "search-hide-matches-text": "Zusätzliche Treffer verbergen",
+    "search-more-match-text": "weitere Treffer in diesem Dokument",
+    "search-more-matches-text": "weitere Treffer in diesem Dokument",
+    "search-clear-button-title": "Zurücksetzen",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Abbrechen",
+    "search-submit-button-title": "Abschicken",
+    "search-label": "Suchen"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-kostentraeger.html"><span class="chapter-title">Kapitel 4 – Kostenträgerrechnung</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Suchen" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">CampusBikes – Fallstudie</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Suchen"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Willkommen</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./01-grundlagen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kapitel 1 – Grundlagen internes Rechnungswesen</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./02-kostenarten.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kapitel 2 – Kostenartenrechnung</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./03-kostenstellen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kapitel 3 – Kostenstellenrechnung</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./04-kostentraeger.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Kapitel 4 – Kostenträgerrechnung</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./05-erfolgsrechnung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kapitel 5 – Erfolgsrechnung</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./06-controlling.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kapitel 6 – Instrumente des Controllings</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Inhaltsverzeichnis</h2>
+   
+  <ul>
+  <li><a href="#einleitung" id="toc-einleitung" class="nav-link active" data-scroll-target="#einleitung">Einleitung</a></li>
+  <li><a href="#entscheidungsfrage" id="toc-entscheidungsfrage" class="nav-link" data-scroll-target="#entscheidungsfrage">Entscheidungsfrage</a></li>
+  <li><a href="#relevante-einzelkostendaten" id="toc-relevante-einzelkostendaten" class="nav-link" data-scroll-target="#relevante-einzelkostendaten">Relevante Einzelkostendaten</a></li>
+  <li><a href="#aufgabe-1" id="toc-aufgabe-1" class="nav-link" data-scroll-target="#aufgabe-1">Aufgabe 1</a></li>
+  <li><a href="#aufgabe-2" id="toc-aufgabe-2" class="nav-link" data-scroll-target="#aufgabe-2">Aufgabe 2</a></li>
+  <li><a href="#aufgabe-3" id="toc-aufgabe-3" class="nav-link" data-scroll-target="#aufgabe-3">Aufgabe 3</a></li>
+  <li><a href="#aufgabe-4" id="toc-aufgabe-4" class="nav-link" data-scroll-target="#aufgabe-4">Aufgabe 4</a></li>
+  <li><a href="#aufgabe-5" id="toc-aufgabe-5" class="nav-link" data-scroll-target="#aufgabe-5">Aufgabe 5</a></li>
+  <li><a href="#was-campusbikes-jetzt-weiß" id="toc-was-campusbikes-jetzt-weiß" class="nav-link" data-scroll-target="#was-campusbikes-jetzt-weiß">Was CampusBikes jetzt weiß</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Kapitel 4 – Kostenträgerrechnung</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="einleitung" class="level2">
+<h2 class="anchored" data-anchor-id="einleitung">Einleitung</h2>
+<p>Das Studentenwerk der Hochschule ist auf das neue Start-Up aufmerksam geworden. Es möchte für das Wintersemester einen Rahmenvertrag mit CampusBikes abschließen:</p>
+<ul>
+<li><strong>30 Standard-Inspektionen</strong> für Fahrräder von Erstsemesterstudierenden</li>
+<li><strong>5 Stadtfahrräder</strong> für den Campusfuhrpark</li>
+<li><strong>20 Monatsabos</strong> für Studierende mit eingeschränkter Mobilität</li>
+</ul>
+<p>Das Studentenwerk würde dafür einen Paketpreis in Höhe von <strong>5.500 €</strong> zahlen. Hanna, Daniel und Mia sind begeistert, aber unsicher: Zu welchem Preis könnten sie das Paket anbieten, ohne Verluste zu machen?</p>
+<p>Aus <a href="./03-kostenstellen.html">Kapitel 3</a> kennen sie die Gemeinkostenzuschlagsätze für alle drei Bereiche:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Kostenstelle</th>
+<th style="text-align: right;">GK-Zuschlagsatz</th>
+<th>Bezugsgröße</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Werkstatt</td>
+<td style="text-align: right;">150,75 %</td>
+<td>Fertigungslöhne</td>
+</tr>
+<tr class="even">
+<td>Verkauf</td>
+<td style="text-align: right;">110,84 %</td>
+<td>Materialeinzelkosten (MEK)</td>
+</tr>
+<tr class="odd">
+<td>Verleih/Abo</td>
+<td style="text-align: right;">221,00 %</td>
+<td>Direkte Personalkosten</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-important callout-titled" title="Ausgangssituation">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Wichtig</span>Ausgangssituation
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>CampusBikes kennt inzwischen die Kostenstruktur aller drei Bereiche. Jetzt muss das Team für jeden <strong>konkreten Kostenträger</strong>, also eine Reparatur, ein Fahrrad und ein Abo die tatsächlichen Selbstkosten ermitteln, um wirtschaftlich fundierte Angebotspreise setzen zu können.</p>
+<p>Als Hanna mit der Anfrage zu Daniel kommt, öffnet er seinen Laptop: „Ich soll dir sagen, was eine Reparatur kostet? Ich kann dir sagen, was Moritz kostet und was Ersatzteile kosten. Aber einen wirklich begründeten Preis hab ich noch nie ausgerechnet.”</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="assets/Kapitel4.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="assets/Kapitel4.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="400"></a></p>
+</figure>
+</div>
+<p>„Das ändern wir jetzt”, sagt Hanna. „Wir haben alles, was wir brauchen.”</p>
+</div>
+</div>
+</section>
+<section id="entscheidungsfrage" class="level2">
+<h2 class="anchored" data-anchor-id="entscheidungsfrage">Entscheidungsfrage</h2>
+<p>Was kostet CampusBikes eine Standard-Inspektion, ein Stadtfahrrad und ein Monatsabo und zu welchem Preis sollten diese angeboten werden?</p>
+</section>
+<section id="relevante-einzelkostendaten" class="level2">
+<h2 class="anchored" data-anchor-id="relevante-einzelkostendaten">Relevante Einzelkostendaten</h2>
+<p>Für die Kalkulation liegen folgende Einzelkosten pro Einheit vor:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 30%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Kostenträger</th>
+<th>Position</th>
+<th style="text-align: right;">Betrag</th>
+<th>Hinweis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Standard-Inspektion</td>
+<td>Materialeinzelkosten (Ersatzteile)</td>
+<td style="text-align: right;">15,00 €</td>
+<td>Bremsbeläge, Schrauben, Schmiermittel</td>
+</tr>
+<tr class="even">
+<td>Standard-Inspektion</td>
+<td>Fertigungslöhne</td>
+<td style="text-align: right;">20,00 €</td>
+<td>0,8 Std. × 25 €/Std. (Moritz)</td>
+</tr>
+<tr class="odd">
+<td>Stadtfahrrad CampusBike Basic</td>
+<td>Materialeinzelkosten (Einkaufspreis)</td>
+<td style="text-align: right;">120,00 €</td>
+<td>Bezugspreis Großhandel</td>
+</tr>
+<tr class="even">
+<td>Monatsabo</td>
+<td>Direkte Personalkosten</td>
+<td style="text-align: right;">12,00 €</td>
+<td>Ausgabe, Einweisung, Rücknahme (1 Std. × 12 €/Std.)</td>
+</tr>
+</tbody>
+</table>
+<p>Zusätzliche Info: Für die Divisionskalkulation im Verleihbereich betreut CampusBikes aktuell <strong>100 aktive Abonnements pro Monat</strong>.</p>
+<hr>
+</section>
+<section id="aufgabe-1" class="level2">
+<h2 class="anchored" data-anchor-id="aufgabe-1">Aufgabe 1</h2>
+<p>Stellen Sie das Kalkulationsschema der Zuschlagskalkulation für den Werkstattbereich von CampusBikes auf.</p>
+<p>Welche Positionen fließen ein? Welche Rolle spielen die Zuschlagsätze aus Kapitel 3?</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Musterlösung Aufgabe 1">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Musterlösung Aufgabe 1
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Schritt</th>
+<th>Position</th>
+<th>Berechnung</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Materialeinzelkosten (MEK)</td>
+<td>gegeben</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Fertigungslöhne (FEL)</td>
+<td>gegeben</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Fertigungsgemeinkosten (FGK)</td>
+<td>FEL × GK-Zuschlagsatz Werkstatt</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td><strong>Selbstkosten</strong></td>
+<td>MEK + FEL + FGK</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Gewinnaufschlag</td>
+<td>Selbstkosten × Gewinnzuschlag (%)</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td><strong>Angebotspreis netto</strong></td>
+<td>Selbstkosten + Gewinnaufschlag</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Umsatzsteuer (19 %)</td>
+<td>Angebotspreis netto × 0,19</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td><strong>Angebotspreis brutto</strong></td>
+<td>Netto + USt</td>
+</tr>
+</tbody>
+</table>
+<p>Hinweis: Der GK-Zuschlagsatz aus dem BAB (Kapitel 3) deckt alle Gemeinkosten des Werkstattbereichs ab inklusive der anteiligen Verwaltungs- und IT-Kosten. Ein separater Verwaltungskostenzuschlag ist daher nicht notwendig.</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="aufgabe-2" class="level2">
+<h2 class="anchored" data-anchor-id="aufgabe-2">Aufgabe 2</h2>
+<p>Kalkulieren Sie Selbstkosten und Angebotspreis für eine <strong>Standard-Inspektion</strong>.</p>
+<p>Nutzen Sie den Werkstatt-Zuschlagsatz aus Kapitel 3 und nehmen Sie für den Gewinnaufschlag 15 % an. Die Umsatzsteuer beträgt 19 %.</p>
+<p>Vergleichen Sie den Angebotspreis mit dem Planpreis aus Kapitel 2. Wie gut war die Planungsannahme der CampusBikes?</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Musterlösung Aufgabe 2">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Musterlösung Aufgabe 2
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Position</th>
+<th style="text-align: right;">Betrag</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Materialeinzelkosten (Ersatzteile)</td>
+<td style="text-align: right;">15,00 €</td>
+</tr>
+<tr class="even">
+<td>Fertigungslöhne (0,8 Std. × 25 €/Std.)</td>
+<td style="text-align: right;">20,00 €</td>
+</tr>
+<tr class="odd">
+<td>Fertigungsgemeinkosten (150,75 % × 20,00 €)</td>
+<td style="text-align: right;">30,15 €</td>
+</tr>
+<tr class="even">
+<td><strong>Selbstkosten</strong></td>
+<td style="text-align: right;"><strong>65,15 €</strong></td>
+</tr>
+<tr class="odd">
+<td>Gewinnaufschlag (15 %)</td>
+<td style="text-align: right;">9,77 €</td>
+</tr>
+<tr class="even">
+<td><strong>Angebotspreis netto</strong></td>
+<td style="text-align: right;"><strong>74,92 €</strong></td>
+</tr>
+<tr class="odd">
+<td>Umsatzsteuer (19 %)</td>
+<td style="text-align: right;">14,23 €</td>
+</tr>
+<tr class="even">
+<td><strong>Angebotspreis brutto</strong></td>
+<td style="text-align: right;"><strong>89,15 €</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Der kalkulierte Nettoangebotspreis von rund 75 € entspricht dem Planpreis aus Kapitel 2. Das ist ein gutes Zeichen für die interne Konsistenz der Kostenrechnung.</p>
+<p>Ein Gewinnaufschlag von 15 % ist für handwerkliche Dienstleistungen marktüblich und deckt unternehmerisches Risiko sowie den Einsatz von Hanna, Daniel und Mia ab.</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="aufgabe-3" class="level2">
+<h2 class="anchored" data-anchor-id="aufgabe-3">Aufgabe 3</h2>
+<p>Kalkulieren Sie Selbstkosten und Angebotspreis für das <strong>Stadtfahrrad CampusBike Basic</strong>.</p>
+<p>Nutzen Sie den GK-Zuschlagsatz des Verkaufsbereichs. Nehmen Sie für den Gewinnaufschlag 20 % an. Die Umsatzsteuer beträgt 19 %.</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Musterlösung Aufgabe 3">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Musterlösung Aufgabe 3
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Position</th>
+<th style="text-align: right;">Betrag</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Materialeinzelkosten (Einkaufspreis Großhandel)</td>
+<td style="text-align: right;">120,00 €</td>
+</tr>
+<tr class="even">
+<td>Gemeinkostenzuschlag Verkauf (110,84 % × 120,00 €)</td>
+<td style="text-align: right;">133,01 €</td>
+</tr>
+<tr class="odd">
+<td><strong>Selbstkosten</strong></td>
+<td style="text-align: right;"><strong>253,01 €</strong></td>
+</tr>
+<tr class="even">
+<td>Gewinnaufschlag (20 %)</td>
+<td style="text-align: right;">50,60 €</td>
+</tr>
+<tr class="odd">
+<td><strong>Angebotspreis netto</strong></td>
+<td style="text-align: right;"><strong>303,61 €</strong></td>
+</tr>
+<tr class="even">
+<td>Umsatzsteuer (19 %)</td>
+<td style="text-align: right;">57,69 €</td>
+</tr>
+<tr class="odd">
+<td><strong>Angebotspreis brutto</strong></td>
+<td style="text-align: right;"><strong>361,30 €</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Der GK-Zuschlag von 133 € auf einen Einkaufspreis von 120 € wirkt auf den ersten Blick hoch. Er spiegelt aber die Realität kleiner Fachhandelsbetriebe wider: Ladenmiete, Personal, IT und Verwaltung schlagen mit über 100 % auf den Wareneinsatz durch.</p>
+<p>Für CampusBikes bedeutet das: Der Verkaufsbereich trägt eine hohe Gemeinkostenlast. Das Stadtfahrrad muss zu einem Marktpreis von rund 360 € (brutto) wettbewerbsfähig sein.</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="aufgabe-4" class="level2">
+<h2 class="anchored" data-anchor-id="aufgabe-4">Aufgabe 4</h2>
+<p>Für das <strong>Monatsabo</strong> entscheidet sich CampusBikes für die <strong>Divisionskalkulation</strong> statt der Zuschlagskalkulation.</p>
+<ol type="a">
+<li><p>Erklären Sie, warum die Divisionskalkulation hier sachgerechter ist als die Zuschlagskalkulation.</p></li>
+<li><p>Ermitteln Sie Selbstkosten und Angebotspreis für ein Monatsabo. Nehmen Sie für den Gewinnaufschlag 20 % an. Die Umsatzsteuer beträgt 19 %.</p></li>
+<li><p>CampusBikes plant künftig zwei Abo-Stufen: Basis (Stadtrad) und Premium (E-Bike). Welche Kalkulationsmethode eignet sich dann und wie könnte die Berechnung aussehen?</p></li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled" title="Musterlösung Aufgabe 4">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Musterlösung Aufgabe 4
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>a) Warum Divisionskalkulation?</strong></p>
+<p>Die Divisionskalkulation eignet sich, wenn gleichartige Leistungen in großer Zahl erbracht werden und sich die Gesamtkosten proportional auf alle Einheiten verteilen lassen.</p>
+<p>Beim Monatsabo erbringt CampusBikes für alle Abonnenten im Wesentlichen dieselbe Leistung. Es gibt keine sinnvolle Einzelkostenbasis pro Abo, die eine Zuschlagskalkulation rechtfertigen würde. Die meisten Kosten entstehen pauschal für den gesamten Bestand (Fahrräder, Wartung, IT, Verwaltung), nicht für einzelne Kunden.</p>
+<p><strong>b) Kalkulation Monatsabo (Divisionskalkulation)</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Position</th>
+<th style="text-align: right;">Betrag</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Gesamtkosten Verleih/Abo (aus Kapitel 3)</td>
+<td style="text-align: right;">2.652,01 €</td>
+</tr>
+<tr class="even">
+<td>Aktive Abonnements</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr class="odd">
+<td><strong>Selbstkosten pro Abo</strong></td>
+<td style="text-align: right;"><strong>26,52 €</strong></td>
+</tr>
+<tr class="even">
+<td>Gewinnaufschlag (20 %)</td>
+<td style="text-align: right;">5,30 €</td>
+</tr>
+<tr class="odd">
+<td><strong>Angebotspreis netto</strong></td>
+<td style="text-align: right;"><strong>31,82 €</strong></td>
+</tr>
+<tr class="even">
+<td>Umsatzsteuer (19 %)</td>
+<td style="text-align: right;">6,05 €</td>
+</tr>
+<tr class="odd">
+<td><strong>Angebotspreis brutto</strong></td>
+<td style="text-align: right;"><strong>37,87 €</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Wichtig: Die Selbstkosten hängen direkt von der Auslastung ab. Bei nur 50 aktiven Abos würden die Selbstkosten auf 53,04 € steigen. Der Angebotspreis müsste dann deutlich erhöht werden.</p>
+<p><strong>c) Äquivalenzziffernkalkulation</strong></p>
+<p>Wenn CampusBikes zwei Abo-Stufen anbietet, können die Gesamtkosten nicht mehr gleichmäßig auf alle Einheiten verteilt werden: Das Premium-Abo verursacht höhere Kosten (teureres Fahrrad, mehr Wartung).</p>
+<p>Lösung: <strong>Äquivalenzziffernkalkulation</strong> mit Kostenverhältnis Basis : Premium = 1,0 : 1,8.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Stufe</th>
+<th style="text-align: right;">Abos</th>
+<th style="text-align: right;">Äquivalenzziffer</th>
+<th style="text-align: right;">Recheneinheiten</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Basis</td>
+<td style="text-align: right;">70</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">70</td>
+</tr>
+<tr class="even">
+<td>Premium</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">54</td>
+</tr>
+<tr class="odd">
+<td><strong>Gesamt</strong></td>
+<td style="text-align: right;"><strong>100</strong></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"><strong>124</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Kosten pro Recheneinheit: 2.652,01 € ÷ 124 = <strong>21,39 €</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Stufe</th>
+<th style="text-align: right;">Selbstkosten pro Abo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Basis</td>
+<td style="text-align: right;">21,39 € × 1,0 = <strong>21,39 €</strong></td>
+</tr>
+<tr class="even">
+<td>Premium</td>
+<td style="text-align: right;">21,39 € × 1,8 = <strong>38,50 €</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Die Äquivalenzziffernkalkulation liegt methodisch zwischen Divisions- und Zuschlagskalkulation: differenzierter als die reine Division, aber einfacher als die vollständige Zuschlagskalkulation.</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="aufgabe-5" class="level2">
+<h2 class="anchored" data-anchor-id="aufgabe-5">Aufgabe 5</h2>
+<p>Fassen Sie die Kalkulationsergebnisse aller drei Kostenträger zusammen.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Kostenträger</th>
+<th>Methode</th>
+<th style="text-align: right;">Selbstkosten</th>
+<th style="text-align: right;">Netto</th>
+<th style="text-align: right;">Gewinnaufschlag</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Standard-Inspektion</td>
+<td></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr class="even">
+<td>Stadtfahrrad CampusBike Basic</td>
+<td></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr class="odd">
+<td>Monatsabo</td>
+<td></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+</tbody>
+</table>
+<p>Was fällt Ihnen beim Vergleich auf? Welche Empfehlung würden Sie CampusBikes für das Angebot an das Studentenwerk geben?</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Musterlösung Aufgabe 5">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Hinweis</span>Musterlösung Aufgabe 5
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 22%">
+<col style="width: 22%">
+<col style="width: 22%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Kostenträger</th>
+<th>Methode</th>
+<th style="text-align: right;">Selbstkosten</th>
+<th style="text-align: right;">Netto</th>
+<th style="text-align: right;">Brutto</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Standard-Inspektion</td>
+<td>Zuschlagskalkulation</td>
+<td style="text-align: right;">65,15 €</td>
+<td style="text-align: right;">74,92 €</td>
+<td style="text-align: right;">89,15 €</td>
+</tr>
+<tr class="even">
+<td>Stadtfahrrad CampusBike Basic</td>
+<td>Zuschlagskalkulation</td>
+<td style="text-align: right;">253,01 €</td>
+<td style="text-align: right;">303,61 €</td>
+<td style="text-align: right;">361,30 €</td>
+</tr>
+<tr class="odd">
+<td>Monatsabo</td>
+<td>Divisionskalkulation</td>
+<td style="text-align: right;">26,52 €</td>
+<td style="text-align: right;">31,82 €</td>
+<td style="text-align: right;">37,87 €</td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Kostenträger</th>
+<th>Angebotsmenge</th>
+<th style="text-align: right;">Einzelpreis</th>
+<th style="text-align: right;">Gesamtpreis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Standard-Inspektion</td>
+<td>30</td>
+<td style="text-align: right;">89,15 €</td>
+<td style="text-align: right;">2.674,50 €</td>
+</tr>
+<tr class="even">
+<td>Stadtfahrrad CampusBike Basic</td>
+<td>5</td>
+<td style="text-align: right;">361,30 €</td>
+<td style="text-align: right;">1.806,50 €</td>
+</tr>
+<tr class="odd">
+<td>Monatsabo</td>
+<td>20</td>
+<td style="text-align: right;">37,87 €</td>
+<td style="text-align: right;">757,40 €</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"><strong>5.238,40 €</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Empfehlung an CampusBikes:</p>
+<p>Das Paket ist wirtschaftlich sehr attraktiv. Die angebotenen 5.500 € liegen sogar über den zu üblichen Konditionen kalkulierten Einzelpreisen. Bei einem solchen Paket wäre sogar ein (Mengen-)Rabatt möglich, sodass CampusBikes dem Studentenwerk preislich sogar noch entgegen kommen könnte.</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="was-campusbikes-jetzt-weiß" class="level2">
+<h2 class="anchored" data-anchor-id="was-campusbikes-jetzt-weiß">Was CampusBikes jetzt weiß</h2>
+<p>CampusBikes verfügt nun über:</p>
+<ul>
+<li>kalkulierte Selbstkosten für alle drei Leistungsbereiche,</li>
+<li>begründete Angebotspreise für Reparatur, Fahrradverkauf und Verleih,</li>
+<li>und ein Verständnis dafür, welche Kalkulationsmethode wann sinnvoll ist.</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled" title="Weiterarbeit">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tipp</span>Weiterarbeit
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Im nächsten Kapitel stellt sich CampusBikes die Frage: Welche Leistungsbereiche tragen kurzfristig wirklich zum Ergebnis bei und wo liegt der Break-Even-Point?</p>
+<p>Die Grundlage dafür sind die Angebotspreise und variablen Kosten aus diesem Kapitel, die nun in eine <strong>Deckungsbeitragsrechnung</strong> einfließen.</p>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Kopiert");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Kopiert");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./03-kostenstellen.html" class="pagination-link" aria-label="Kapitel 3 – Kostenstellenrechnung">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Kapitel 3 – Kostenstellenrechnung</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./05-erfolgsrechnung.html" class="pagination-link" aria-label="Kapitel 5 – Erfolgsrechnung">
+        <span class="nav-page-text"><span class="chapter-title">Kapitel 5 – Erfolgsrechnung</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
+
+
+
+
+</body></html>

@@ -1,0 +1,240 @@
+---
+title: "Kapitel 4 – Kostenträgerrechnung"
+---
+
+## Einleitung
+
+Das Studentenwerk der Hochschule ist auf das neue Start-Up aufmerksam geworden. Es möchte für das Wintersemester einen Rahmenvertrag mit CampusBikes abschließen:
+
+- **30 Standard-Inspektionen** für Fahrräder von Erstsemesterstudierenden
+- **5 Stadtfahrräder** für den Campusfuhrpark
+- **20 Monatsabos** für Studierende mit eingeschränkter Mobilität
+
+Das Studentenwerk würde dafür einen Paketpreis in Höhe von **5.500 €** zahlen. Hanna, Daniel und Mia sind begeistert, aber unsicher: Zu welchem Preis könnten sie das Paket anbieten, ohne Verluste zu machen?
+
+Aus [Kapitel 3](03-kostenstellen.qmd) kennen sie die Gemeinkostenzuschlagsätze für alle drei Bereiche:
+
+| Kostenstelle | GK-Zuschlagsatz | Bezugsgröße |
+|---|---:|---|
+| Werkstatt | 150,75 % | Fertigungslöhne |
+| Verkauf | 110,84 % | Materialeinzelkosten (MEK) |
+| Verleih/Abo | 221,00 % | Direkte Personalkosten |
+
+::: {.callout-important title="Ausgangssituation"}
+CampusBikes kennt inzwischen die Kostenstruktur aller drei Bereiche.
+Jetzt muss das Team für jeden **konkreten Kostenträger**, also eine Reparatur, ein Fahrrad und ein Abo die tatsächlichen Selbstkosten ermitteln, um wirtschaftlich fundierte Angebotspreise setzen zu können.
+
+Als Hanna mit der Anfrage zu Daniel kommt, öffnet er seinen Laptop: „Ich soll dir sagen, was eine Reparatur kostet? Ich kann dir sagen, was Moritz kostet und was Ersatzteile kosten. Aber einen wirklich begründeten Preis hab ich noch nie ausgerechnet."
+
+![](assets/Kapitel4.jpg){fig-align="center" width="400"}
+
+„Das ändern wir jetzt", sagt Hanna. „Wir haben alles, was wir brauchen."
+
+:::
+
+
+
+## Entscheidungsfrage
+
+Was kostet CampusBikes eine Standard-Inspektion, ein Stadtfahrrad und ein Monatsabo und zu welchem Preis sollten diese angeboten werden?
+
+## Relevante Einzelkostendaten
+
+Für die Kalkulation liegen folgende Einzelkosten pro Einheit vor:
+
+| Kostenträger | Position | Betrag | Hinweis |
+|---|---|---:|---|
+| Standard-Inspektion | Materialeinzelkosten (Ersatzteile) | 15,00 € | Bremsbeläge, Schrauben, Schmiermittel |
+| Standard-Inspektion | Fertigungslöhne | 20,00 € | 0,8 Std. × 25 €/Std. (Moritz) |
+| Stadtfahrrad CampusBike Basic | Materialeinzelkosten (Einkaufspreis) | 120,00 € | Bezugspreis Großhandel |
+| Monatsabo | Direkte Personalkosten | 12,00 € | Ausgabe, Einweisung, Rücknahme (1 Std. × 12 €/Std.) |
+
+Zusätzliche Info: Für die Divisionskalkulation im Verleihbereich betreut CampusBikes aktuell **100 aktive Abonnements pro Monat**.
+
+---
+
+## Aufgabe 1
+
+Stellen Sie das Kalkulationsschema der Zuschlagskalkulation für den Werkstattbereich von CampusBikes auf.
+
+Welche Positionen fließen ein? Welche Rolle spielen die Zuschlagsätze aus Kapitel 3?
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 1"}
+
+| Schritt | Position | Berechnung |
+|---|---|---|
+| 1 | Materialeinzelkosten (MEK) | gegeben |
+| 2 | Fertigungslöhne (FEL) | gegeben |
+| 3 | Fertigungsgemeinkosten (FGK) | FEL × GK-Zuschlagsatz Werkstatt |
+| 4 | **Selbstkosten** | MEK + FEL + FGK |
+| 5 | Gewinnaufschlag | Selbstkosten × Gewinnzuschlag (%) |
+| 6 | **Angebotspreis netto** | Selbstkosten + Gewinnaufschlag |
+| 7 | Umsatzsteuer (19 %) | Angebotspreis netto × 0,19 |
+| 8 | **Angebotspreis brutto** | Netto + USt |
+
+Hinweis: Der GK-Zuschlagsatz aus dem BAB (Kapitel 3) deckt alle Gemeinkosten des Werkstattbereichs ab inklusive der anteiligen Verwaltungs- und IT-Kosten. Ein separater Verwaltungskostenzuschlag ist daher nicht notwendig.
+
+:::
+
+---
+
+## Aufgabe 2
+
+Kalkulieren Sie Selbstkosten und Angebotspreis für eine **Standard-Inspektion**.
+
+Nutzen Sie den Werkstatt-Zuschlagsatz aus Kapitel 3 und nehmen Sie für den Gewinnaufschlag 15 % an. Die Umsatzsteuer beträgt 19 %. 
+
+Vergleichen Sie den Angebotspreis mit dem Planpreis aus Kapitel 2. Wie gut war die Planungsannahme der CampusBikes?
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 2"}
+
+| Position | Betrag |
+|---|---:|
+| Materialeinzelkosten (Ersatzteile) | 15,00 € |
+| Fertigungslöhne (0,8 Std. × 25 €/Std.) | 20,00 € |
+| Fertigungsgemeinkosten (150,75 % × 20,00 €) | 30,15 € |
+| **Selbstkosten** | **65,15 €** |
+| Gewinnaufschlag (15 %) | 9,77 € |
+| **Angebotspreis netto** | **74,92 €** |
+| Umsatzsteuer (19 %) | 14,23 € |
+| **Angebotspreis brutto** | **89,15 €** |
+
+Der kalkulierte Nettoangebotspreis von rund 75 € entspricht dem Planpreis aus Kapitel 2. Das ist ein gutes Zeichen für die interne Konsistenz der Kostenrechnung.
+
+Ein Gewinnaufschlag von 15 % ist für handwerkliche Dienstleistungen marktüblich und deckt unternehmerisches Risiko sowie den Einsatz von Hanna, Daniel und Mia ab.
+
+:::
+
+---
+
+## Aufgabe 3
+
+Kalkulieren Sie Selbstkosten und Angebotspreis für das **Stadtfahrrad CampusBike Basic**.
+
+Nutzen Sie den GK-Zuschlagsatz des Verkaufsbereichs. Nehmen Sie für den Gewinnaufschlag 20 % an. Die Umsatzsteuer beträgt 19 %. 
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 3"}
+
+| Position | Betrag |
+|---|---:|
+| Materialeinzelkosten (Einkaufspreis Großhandel) | 120,00 € |
+| Gemeinkostenzuschlag Verkauf (110,84 % × 120,00 €) | 133,01 € |
+| **Selbstkosten** | **253,01 €** |
+| Gewinnaufschlag (20 %) | 50,60 € |
+| **Angebotspreis netto** | **303,61 €** |
+| Umsatzsteuer (19 %) | 57,69 € |
+| **Angebotspreis brutto** | **361,30 €** |
+
+Der GK-Zuschlag von 133 € auf einen Einkaufspreis von 120 € wirkt auf den ersten Blick hoch. Er spiegelt aber die Realität kleiner Fachhandelsbetriebe wider: Ladenmiete, Personal, IT und Verwaltung schlagen mit über 100 % auf den Wareneinsatz durch.
+
+Für CampusBikes bedeutet das: Der Verkaufsbereich trägt eine hohe Gemeinkostenlast. Das Stadtfahrrad muss zu einem Marktpreis von rund 360 € (brutto) wettbewerbsfähig sein.
+
+:::
+
+---
+
+## Aufgabe 4
+
+Für das **Monatsabo** entscheidet sich CampusBikes für die **Divisionskalkulation** statt der Zuschlagskalkulation.
+
+a) Erklären Sie, warum die Divisionskalkulation hier sachgerechter ist als die Zuschlagskalkulation.
+
+b) Ermitteln Sie Selbstkosten und Angebotspreis für ein Monatsabo. Nehmen Sie für den Gewinnaufschlag 20 % an. Die Umsatzsteuer beträgt 19 %. 
+
+c) CampusBikes plant künftig zwei Abo-Stufen: Basis (Stadtrad) und Premium (E-Bike). Welche Kalkulationsmethode eignet sich dann und wie könnte die Berechnung aussehen?
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 4"}
+
+**a) Warum Divisionskalkulation?**
+
+Die Divisionskalkulation eignet sich, wenn gleichartige Leistungen in großer Zahl erbracht werden und sich die Gesamtkosten proportional auf alle Einheiten verteilen lassen.
+
+Beim Monatsabo erbringt CampusBikes für alle Abonnenten im Wesentlichen dieselbe Leistung. Es gibt keine sinnvolle Einzelkostenbasis pro Abo, die eine Zuschlagskalkulation rechtfertigen würde. Die meisten Kosten entstehen pauschal für den gesamten Bestand (Fahrräder, Wartung, IT, Verwaltung), nicht für einzelne Kunden.
+
+**b) Kalkulation Monatsabo (Divisionskalkulation)**
+
+| Position | Betrag |
+|---|---:|
+| Gesamtkosten Verleih/Abo (aus Kapitel 3) | 2.652,01 € |
+| Aktive Abonnements | 100 |
+| **Selbstkosten pro Abo** | **26,52 €** |
+| Gewinnaufschlag (20 %) | 5,30 € |
+| **Angebotspreis netto** | **31,82 €** |
+| Umsatzsteuer (19 %) | 6,05 € |
+| **Angebotspreis brutto** | **37,87 €** |
+
+Wichtig: Die Selbstkosten hängen direkt von der Auslastung ab. Bei nur 50 aktiven Abos würden die Selbstkosten auf 53,04 € steigen. Der Angebotspreis müsste dann deutlich erhöht werden.
+
+**c) Äquivalenzziffernkalkulation**
+
+Wenn CampusBikes zwei Abo-Stufen anbietet, können die Gesamtkosten nicht mehr gleichmäßig auf alle Einheiten verteilt werden: Das Premium-Abo verursacht höhere Kosten (teureres Fahrrad, mehr Wartung).
+
+Lösung: **Äquivalenzziffernkalkulation** mit Kostenverhältnis Basis : Premium = 1,0 : 1,8.
+
+| Stufe | Abos | Äquivalenzziffer | Recheneinheiten |
+|---|---:|---:|---:|
+| Basis | 70 | 1,0 | 70 |
+| Premium | 30 | 1,8 | 54 |
+| **Gesamt** | **100** | | **124** |
+
+Kosten pro Recheneinheit: 2.652,01 € ÷ 124 = **21,39 €**
+
+| Stufe | Selbstkosten pro Abo |
+|---|---:|
+| Basis | 21,39 € × 1,0 = **21,39 €** |
+| Premium | 21,39 € × 1,8 = **38,50 €** |
+
+Die Äquivalenzziffernkalkulation liegt methodisch zwischen Divisions- und Zuschlagskalkulation: differenzierter als die reine Division, aber einfacher als die vollständige Zuschlagskalkulation.
+
+:::
+
+---
+
+## Aufgabe 5
+
+Fassen Sie die Kalkulationsergebnisse aller drei Kostenträger zusammen.
+
+| Kostenträger | Methode | Selbstkosten | Netto | Gewinnaufschlag |
+|---|---|---:|---:|---:|
+| Standard-Inspektion | | | | |
+| Stadtfahrrad CampusBike Basic | | | | |
+| Monatsabo | | | | |
+
+Was fällt Ihnen beim Vergleich auf? Welche Empfehlung würden Sie CampusBikes für das Angebot an das Studentenwerk geben?
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 5"}
+
+| Kostenträger | Methode | Selbstkosten | Netto | Brutto |
+|---|---|---:|---:|---:|
+| Standard-Inspektion | Zuschlagskalkulation | 65,15 € | 74,92 € | 89,15 € |
+| Stadtfahrrad CampusBike Basic | Zuschlagskalkulation | 253,01 € | 303,61 € | 361,30 € |
+| Monatsabo | Divisionskalkulation | 26,52 € | 31,82 € | 37,87 € |
+
+| Kostenträger | Angebotsmenge | Einzelpreis | Gesamtpreis |
+|---|---|---:|---:|
+| Standard-Inspektion | 30 | 89,15 € | 2.674,50 € | 
+| Stadtfahrrad CampusBike Basic | 5 | 361,30 € | 1.806,50 € |
+| Monatsabo | 20 | 37,87 € | 757,40 € |
+|  |  |  | **5.238,40 €**|
+
+Empfehlung an CampusBikes:
+
+Das Paket ist wirtschaftlich sehr attraktiv. Die angebotenen 5.500 € liegen sogar über den zu üblichen Konditionen kalkulierten Einzelpreisen. Bei einem solchen Paket wäre sogar ein (Mengen-)Rabatt möglich, sodass CampusBikes dem Studentenwerk preislich sogar noch entgegen kommen könnte.
+
+:::
+
+---
+
+## Was CampusBikes jetzt weiß
+
+CampusBikes verfügt nun über:
+
+- kalkulierte Selbstkosten für alle drei Leistungsbereiche,
+- begründete Angebotspreise für Reparatur, Fahrradverkauf und Verleih,
+- und ein Verständnis dafür, welche Kalkulationsmethode wann sinnvoll ist.
+
+::: {.callout-tip title="Weiterarbeit"}
+Im nächsten Kapitel stellt sich CampusBikes die Frage: Welche Leistungsbereiche tragen kurzfristig wirklich zum Ergebnis bei und wo liegt der Break-Even-Point?
+
+Die Grundlage dafür sind die Angebotspreise und variablen Kosten aus diesem Kapitel, die nun in eine **Deckungsbeitragsrechnung** einfließen.
+:::

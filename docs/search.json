@@ -1,0 +1,662 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CampusBikes – Fallstudie",
+    "section": "",
+    "text": "Willkommen\nIm Mittelpunkt dieser Fallstudie steht das fiktive Start-up CampusBikes GmbH.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Willkommen</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#kapitelübersicht",
+    "href": "index.html#kapitelübersicht",
+    "title": "CampusBikes – Fallstudie",
+    "section": "Kapitelübersicht",
+    "text": "Kapitelübersicht\n\n\n\n\n1 – Grundlagen\nWelche Zahlen brauchen wir intern zusätzlich zum Jahresabschluss?\n\n\n\n\n\n\n2 – Kostenarten\nWelche Kosten entstehen tatsächlich und wie verhalten sie sich?\n\n\n\n\n\n\n3 – Kostenstellen\nWo entstehen Gemeinkosten im Betrieb?\n\n\n\n\n\n\n4 – Kostenträger\nWas kostet ein Produkt oder Auftrag?\n\n\n\n\n\n\n5 – Erfolgsrechnung\nWelche Angebote tragen zum Ergebnis bei?\n\n\n\n\n\n\n6 – Controlling\nWie steuern wir CampusBikes zielorientiert?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Willkommen</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#arbeitshinweise",
+    "href": "index.html#arbeitshinweise",
+    "title": "CampusBikes – Fallstudie",
+    "section": "Arbeitshinweise",
+    "text": "Arbeitshinweise\nDie Zahlen sind kapitelübergreifend konsistent: Die Ergebnisse eines Kapitels fließen direkt in das nächste ein. Die Fallstudie ist so angelegt, dass Studierende zunächst selbst rechnen, diskutieren und entscheiden. Direkt danach folgt jeweils eine Musterlösung, damit auch Studierende mit fehlerhaften Zwischenergebnissen weiterarbeiten können.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Willkommen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html",
+    "href": "01-grundlagen.html",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "",
+    "text": "Einleitung\nCampusBikes startet in Jahr 2. Hanna, Daniel und Mia schauen auf den Jahresabschluss aus Jahr 1: Das Unternehmen ist gewachsen. In der GuV sehen die drei Umsätze, Personalaufwand, Materialaufwand, Abschreibungen und einen Jahresüberschuss.\nTrotzdem bleibt eine zentrale Frage offen:\nBevor CampusBikes weiterrechnet, müssen Hanna, Daniel und Mia eine wichtige Unterscheidung klären:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html#einleitung",
+    "href": "01-grundlagen.html#einleitung",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "",
+    "text": "WichtigAusgangssituation\n\n\n\nDer Jahresabschluss zeigt, ob CampusBikes insgesamt erfolgreich war.\nEr zeigt aber nicht ausreichend, welche Leistungen sich wirklich lohnen: Reparatur, Fahrradverkauf oder Verleih?\nDaniel blättert durch die Unterlagen der GuV: „Ich hab dieses Jahr über 200 Reparaturen gemacht. Aber ich kann hier nicht erkennen, ob die Werkstatt uns Geld gebracht hat oder gekostet hat.”\nMia nickt: „Beim Verleih ist es noch undurchsichtiger. Ich weiß nicht, ob unsere Abonnements profitabel sind oder ob wir draufzahlen.”\n\n\n\n\n\nHanna: „Und beim Fahrradverkauf sehe ich nur den Gesamtumsatz. Nicht, was nach Wareneinsatz und anteiligen Kosten wirklich übrig bleibt.”\n\n\n\n\n\n\n\n\n\nTippMerkhilfe\n\n\n\nDas externe Rechnungswesen blickt vor allem auf Zahlungen, Aufwendungen und Erträge.\nDas interne Rechnungswesen fragt stärker nach Kosten, Leistungen und Entscheidungsinformationen.\n\n\n\n\n\n\n\n\n\n\nPerspektive\nTypische Begriffe\nLeitfrage\n\n\n\n\nZahlungsbezogen\nAuszahlung / Einzahlung\nFließt Geld ab oder zu?\n\n\nErfolgsbezogen im externen Rechnungswesen\nAufwand / Ertrag\nWird das externe Ergebnis beeinflusst?\n\n\nEntscheidungsbezogen im internen Rechnungswesen\nKosten / Leistung\nWelche wirtschaftlichen Werte entstehen für interne Entscheidungen?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html#entscheidungsfrage",
+    "href": "01-grundlagen.html#entscheidungsfrage",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "Entscheidungsfrage",
+    "text": "Entscheidungsfrage\nWelche zusätzlichen Informationen braucht CampusBikes aus dem internen Rechnungswesen, um die drei Leistungsbereiche besser steuern zu können?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html#relevante-ausgangsdaten-aus-jahr-1",
+    "href": "01-grundlagen.html#relevante-ausgangsdaten-aus-jahr-1",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "Relevante Ausgangsdaten aus Jahr 1",
+    "text": "Relevante Ausgangsdaten aus Jahr 1\n\n\n\nGröße\nBetrag\n\n\n\n\nUmsatzerlöse\n55.000 €\n\n\nsonstige Erträge\n150 €\n\n\nMaterialaufwand\n-10.500 €\n\n\nPersonalaufwand\n-30.000 €\n\n\nAbschreibungen\n-3.400 €\n\n\nsonstige Aufwendungen\n-600 €\n\n\nSteuern\n-3.195 €\n\n\nJahresüberschuss\n7.455 €\n\n\n\nZusätzlich wissen die Gründer:innen:\n\n\n\n\n\n\n\n\nLeistungsbereich\nVerantwortlichkeit\nBeobachtung\n\n\n\n\nFahrradverkauf\nHanna\nGute Einzelumsätze, aber Wareneinsatz notwendig\n\n\nReparatur\nDaniel\nViele Aufträge, aber hoher Zeitaufwand\n\n\nVerleih\nMia\nRegelmäßige Nachfrage, aber Wartung und Ausfälle\n\n\nVerwaltung\nalle\nViel Zeit für Organisation und Administration",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html#aufgabe-1",
+    "href": "01-grundlagen.html#aufgabe-1",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "Aufgabe 1",
+    "text": "Aufgabe 1\nErklären Sie kurz, warum die GuV aus Jahr 1 allein nicht ausreicht, um zu entscheiden, welcher Leistungsbereich ausgebaut werden sollte.\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 1\n\n\n\n\n\nDie GuV zeigt nur das Gesamtergebnis von CampusBikes.\nSie beantwortet nicht, welcher Leistungsbereich welchen Beitrag zum Unternehmenserfolg leistet.\nFür Managemententscheidungen fehlen insbesondere:\n\nKosten je Leistungsbereich\nvariable und fixe Kosten\nGemeinkostenverteilung\nkalkulatorische Kosten\nDeckungsbeiträge einzelner Angebote",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html#aufgabe-2",
+    "href": "01-grundlagen.html#aufgabe-2",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "Aufgabe 2",
+    "text": "Aufgabe 2\nOrdnen Sie die folgenden Vorgänge den Begriffen Auszahlung, Aufwand, Kosten, Einzahlung, Ertrag und Leistung zu.\n\n\n\n\n\n\n\nVorgang\nZuordnung\n\n\n\n\nCampusBikes zahlt die Monatsmiete für die Werkstatt per Banküberweisung.\n\n\n\nEin Kunde zahlt bar für eine Reparatur.\n\n\n\nDer Transporter wird bilanziell abgeschrieben.\n\n\n\nDaniel repariert ein Fahrrad für einen Freund kostenlos, um Werbung zu machen.\n\n\n\nMia arbeitet unbezahlt in der Verwaltung mit.\n\n\n\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 2\n\n\n\n\n\n\n\n\n\n\n\n\nVorgang\nmögliche Zuordnung\n\n\n\n\nCampusBikes zahlt die Monatsmiete für die Werkstatt per Banküberweisung.\nAuszahlung, Aufwand und Kosten\n\n\nEin Kunde zahlt bar für eine Reparatur.\nEinzahlung, Ertrag und Leistung\n\n\nDer Transporter wird bilanziell abgeschrieben.\nAufwand und in der Regel deckungsgleiche Kosten\n\n\nDaniel repariert ein Fahrrad für einen Freund kostenlos, um Werbung zu machen.\nkeine Einzahlung, kein Ertrag; intern kann der Ressourceneinsatz trotzdem als Kosten betrachtet werden\n\n\nMia arbeitet unbezahlt in der Verwaltung mit.\nkeine Auszahlung, kein Aufwand; intern Zusatzkosten, weil ihre Arbeitszeit wirtschaftlich nicht kostenlos ist",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html#aufgabe-3",
+    "href": "01-grundlagen.html#aufgabe-3",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "Aufgabe 3",
+    "text": "Aufgabe 3\nNennen Sie zwei Beispiele, bei denen das interne Rechnungswesen anders rechnet als das externe Rechnungswesen.\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 3\n\n\n\n\n\nMögliche Beispiele:\n\nkalkulatorischer Unternehmerlohn\nkalkulatorische Abschreibung\nAnderskosten bei Abschreibungen\nZusatzkosten ohne Gegenstück im externen Rechnungswesen",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html#aufgabe-4",
+    "href": "01-grundlagen.html#aufgabe-4",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "Aufgabe 4",
+    "text": "Aufgabe 4\nEntscheiden Sie für folgende Fälle: Anderskosten, Zusatzkosten oder Grundkosten?\n\n\n\n\n\n\n\nFall\nAnderskosten, Zusatzkosten oder Grundkosten?\n\n\n\n\nDer Transporter wird extern mit 3.400 € pro Jahr abgeschrieben, intern aber mit 4.000 €.\n\n\n\nMia arbeitet regelmäßig unbezahlt in der Verwaltung mit.\n\n\n\nDie handelsrechtliche Abschreibung entspricht exakt der kalkulatorischen Abschreibung.\n\n\n\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 4\n\n\n\n\n\n\n\n\n\n\n\n\nFall\nEinordnung\n\n\n\n\nDer Transporter wird extern mit 3.400 € pro Jahr abgeschrieben, intern aber mit 4.000 €.\nAnderskosten\n\n\nMia arbeitet regelmäßig unbezahlt in der Verwaltung mit.\nZusatzkosten\n\n\nDie handelsrechtliche Abschreibung entspricht exakt der kalkulatorischen Abschreibung.\nGrundkosten\n\n\n\nAnderskosten entstehen, wenn ein Sachverhalt sowohl extern als auch intern erfasst wird, aber mit unterschiedlicher Höhe.\nZusatzkosten entstehen, wenn intern Kosten berücksichtigt werden, obwohl im externen Rechnungswesen kein Aufwand vorliegt.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html#aufgabe-5",
+    "href": "01-grundlagen.html#aufgabe-5",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "Aufgabe 5",
+    "text": "Aufgabe 5\nFormulieren Sie eine Managementfrage, die CampusBikes mit Hilfe des internen Rechnungswesens beantworten sollte.\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 5\n\n\n\n\n\nMögliche Managementfragen:\n\nWelche Leistung ist für CampusBikes wirtschaftlich am attraktivsten?\nSoll CampusBikes Reparaturen oder Verleih ausbauen?\nWelche Kosten entstehen tatsächlich durch Werkstatt, Verkauf und Verleih?\nReichen die aktuellen Preise aus?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "01-grundlagen.html#das-interne-rechnungswesen-im-überblick",
+    "href": "01-grundlagen.html#das-interne-rechnungswesen-im-überblick",
+    "title": "Kapitel 1 – Grundlagen internes Rechnungswesen",
+    "section": "Das interne Rechnungswesen im Überblick",
+    "text": "Das interne Rechnungswesen im Überblick\nCampusBikes hat verstanden: Die GuV allein reicht für gute Entscheidungen nicht aus. Jetzt müssen die Informationen Schritt für Schritt interner aufbereitet werden.\n\n\n\n\n\n\n\n\nTeilbereich\nLeitfrage\nRolle in der Fallstudie\n\n\n\n\nKostenartenrechnung\nWelche Kosten entstehen?\nAusgangspunkt für die interne Strukturierung\n\n\nKostenstellenrechnung\nWo entstehen die Kosten?\nVerteilung auf Werkstatt, Verkauf, Verleih und Verwaltung\n\n\nKostenträgerrechnung\nWofür entstehen die Kosten?\nKalkulation einzelner Leistungen und Angebote\n\n\nErfolgsrechnung\nWelche Leistungen lohnen sich?\nGrundlage für Sortiments- und Strukturentscheidungen\n\n\nControlling\nWie steuern wir CampusBikes?\nKennzahlen, Ziele und Maßnahmen\n\n\n\nCampusBikes entscheidet, die Aufwendungen für interne Zwecke neu zu strukturieren.\n\n\n\n\n\n\nTippWeiterarbeit\n\n\n\nIm nächsten Kapitel wird aus den externen Aufwendungen eine interne Kostenartenübersicht erstellt.\nDie Leitfrage lautet dann: Welche Kosten entstehen bei CampusBikes überhaupt?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kapitel 1 – Grundlagen internes Rechnungswesen</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html",
+    "href": "02-kostenarten.html",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "",
+    "text": "Einleitung\nCampusBikes startet in Jahr 2 mit konkreten Wachstumsplänen. Hanna, Daniel und Mia möchten mehr Reparaturtermine anbieten, den Fahrradverleih professionalisieren und ein Abo-Modell vorbereiten.\nAus Kapitel 1 ist klar geworden: Die GuV aus Jahr 1 reicht für diese Entscheidungen nicht aus. CampusBikes muss genauer verstehen, welche Kosten entstehen, wie sie sich verhalten und wofür sie verursacht werden.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#einleitung",
+    "href": "02-kostenarten.html#einleitung",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "",
+    "text": "WichtigAusgangssituation\n\n\n\nCampusBikes kennt bisher vor allem die Aufwendungen aus der externen Buchhaltung.\nFür Entscheidungen braucht das Team aber eine interne Sicht darauf, welche Kostenarten entstehen, welche Kosten direkt zurechenbar sind und welche Kosten mit der Auslastung steigen.\nHanna schaut auf die Wachstumspläne: „Bevor wir über Preise reden…wissen wir eigentlich, welche Kosten mit jedem Auftrag steigen und welche so oder so anfallen?”\nDaniel nickt: „Moritz’ Gehalt zahlen wir, egal ob wir 100 oder 300 Reparaturen machen. Aber die Ersatzteile hängen direkt an der Auftragszahl.”\n\n\n\n\n\n„Genau das müssen wir verstehen”, sagt Hanna, „bevor wir irgendetwas entscheiden.”",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#entscheidungsfrage",
+    "href": "02-kostenarten.html#entscheidungsfrage",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "Entscheidungsfrage",
+    "text": "Entscheidungsfrage\nWie kann CampusBikes seine Kosten so strukturieren, dass spätere Entscheidungen zu Reparatur, Verkauf und Verleih besser vorbereitet werden?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#relevante-plandaten-für-jahr-2",
+    "href": "02-kostenarten.html#relevante-plandaten-für-jahr-2",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "Relevante Plandaten für Jahr 2",
+    "text": "Relevante Plandaten für Jahr 2\nFür einen typischen Monat in Jahr 2 liegen folgende Planwerte vor:\n\n\n\n\n\n\n\n\nKostenposition\nBetrag pro Monat\nHinweis\n\n\n\n\nErsatzteile für Reparaturen\n3.600 €\nabhängig von der Zahl der Reparaturen\n\n\nFahrradreifen für Verkauf und Reparatur\n1.200 €\ndirekt zurechenbar, wenn Auftrag bekannt\n\n\nGehalt Moritz Werkstatt\n4.000 €\nfestes Monatsgehalt\n\n\nMinijob-Hilfe in Stoßzeiten\n900 €\nnur bei hoher Auslastung\n\n\nMiete Werkstattfläche\n3.063 €\nWerkstatt- und Lagerfläche, monatlich fix\n\n\nStrom Werkstatt\n650 €\n25 € Grundgebühr fix, 625 € nutzungsabhängig\n\n\nVersicherung\n300 €\nmonatlich fix\n\n\nSoftware für Terminbuchung\n180 €\nmonatliches Abo\n\n\nZahlungsanbietergebühren\n240 €\n25 € Grundgebühr fix, 215 € abhängig von bargeldlosen Zahlungen\n\n\nAbschreibung Transporter\n667 €\nplanmäßige monatliche Abschreibung\n\n\nWerbung\n1.000 €\nKampagne für Reparatur und Abo\n\n\nIT-Service und digitale Infrastruktur\n1.500 €\nServer, Cloud-Dienste, Softwarelizenzen\n\n\nVerwaltungskosten\n2.500 €\nBüro, Telefon, Organisation, anteilige Gründer:innenzeit",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#aufgabe-1",
+    "href": "02-kostenarten.html#aufgabe-1",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "Aufgabe 1",
+    "text": "Aufgabe 1\nOrdnen Sie die Kostenpositionen den Kostenarten zu:\n\nMaterialkosten\nPersonalkosten\nKapitalkosten\nsonstige Kosten\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 1\n\n\n\n\n\n\n\n\nKostenposition\nKostenart\n\n\n\n\nErsatzteile für Reparaturen\nMaterialkosten\n\n\nFahrradreifen für Verkauf und Reparatur\nMaterialkosten\n\n\nGehalt Moritz Werkstatt\nPersonalkosten\n\n\nMinijob-Hilfe in Stoßzeiten\nPersonalkosten\n\n\nMiete Werkstattfläche\nsonstige Kosten\n\n\nStrom Werkstatt\nsonstige Kosten\n\n\nVersicherung\nsonstige Kosten\n\n\nSoftware für Terminbuchung\nsonstige Kosten\n\n\nZahlungsanbietergebühren\nsonstige Kosten\n\n\nAbschreibung Transporter\nKapitalkosten\n\n\nWerbung\nsonstige Kosten\n\n\nIT-Service und digitale Infrastruktur\nsonstige Kosten\n\n\nVerwaltungskosten\nsonstige Kosten\n\n\n\nDie Kostenartenrechnung beantwortet zunächst die Frage: Welche Kosten sind angefallen?\nSie beantwortet noch nicht, wo die Kosten angefallen sind oder welcher Leistung sie zugeordnet werden sollen.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#aufgabe-2",
+    "href": "02-kostenarten.html#aufgabe-2",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "Aufgabe 2",
+    "text": "Aufgabe 2\nOrdnen Sie die Kostenpositionen danach, ob sie eher Einzelkosten oder Gemeinkosten sind.\nHinweis: Entscheidend ist, ob die Kosten einem konkreten Auftrag oder Produkt (nicht Kostenstelle) direkt zugerechnet werden können.\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 2\n\n\n\n\n\n\n\n\n\n\n\n\n\nKostenposition\nEinordnung\nBegründung\n\n\n\n\nErsatzteile für Reparaturen\nEinzelkosten\ndirekt einem Reparaturauftrag zurechenbar\n\n\nFahrradreifen für Verkauf und Reparatur\nEinzelkosten\ndirekt einem Auftrag oder Verkauf zurechenbar\n\n\nGehalt Moritz Werkstatt\nGemeinkosten\nMoritz arbeitet an vielen Aufträgen\n\n\nMinijob-Hilfe in Stoßzeiten\nGemeinkosten\nunterstützt mehrere Aufträge\n\n\nMiete Werkstattfläche\nGemeinkosten\nnicht direkt einem einzelnen Auftrag zurechenbar\n\n\nStrom Werkstatt\nGemeinkosten\nNutzung verteilt sich auf viele Leistungen (theoretisch ggf. zurechenbar; dann aber dennoch unechte Gemeinkosten)\n\n\nVersicherung\nGemeinkosten\nallgemeine Absicherung\n\n\nSoftware für Terminbuchung\nGemeinkosten (unecht)\nFlatrate-Abo, das alle Leistungsbereiche nutzen; technisch wäre eine Zurechnung pro Buchung möglich, aber die Pauschale erzeugt keine echte Kausalbeziehung pro Auftrag\n\n\nZahlungsanbietergebühren\nGemeinkosten (unecht)\nGrundgebühr (→ Gemeinkosten) plus transaktionsabhängige Gebühr (→ technisch einem Auftrag zurechenbar); hier vereinfachend als Gesamtblock behandelt\n\n\nAbschreibung Transporter\nGemeinkosten\nTransporter wird allgemein genutzt\n\n\nWerbung\nGemeinkosten\nwirkt auf mehrere Leistungen\n\n\nIT-Service und digitale Infrastruktur\nGemeinkosten\nwird von allen Leistungsbereichen genutzt\n\n\nVerwaltungskosten\nGemeinkosten\nallgemeine Organisation\n\n\n\nWichtig: Einzelkosten und variable Kosten sind nicht dasselbe.\nEine Kostenposition kann variabel sein, aber trotzdem Gemeinkostencharakter haben.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#aufgabe-3",
+    "href": "02-kostenarten.html#aufgabe-3",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "Aufgabe 3",
+    "text": "Aufgabe 3\nOrdnen Sie die Kostenpositionen danach, ob sie eher fix, variabel oder Mischkosten sind.\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 3\n\n\n\n\n\n\n\n\n\n\n\n\n\nKostenposition\nKostenverhalten\nBegründung\n\n\n\n\nErsatzteile für Reparaturen\nvariabel\nsteigen mit der Zahl der Reparaturen\n\n\nFahrradreifen für Verkauf und Reparatur\nvariabel\nsteigen mit Verkauf oder Reparaturbedarf\n\n\nGehalt Moritz Werkstatt\nfix\nmonatlich unabhängig von der Auslastung\n\n\nMinijob-Hilfe in Stoßzeiten\nsprungfix / variabel diskutierbar\nfällt erst bei höherer Auslastung an\n\n\nMiete Werkstattfläche\nfix\nunabhängig von der Auftragszahl\n\n\nStrom Werkstatt\nMischkosten\nGrundverbrauch plus nutzungsabhängiger Anteil\n\n\nVersicherung\nfix\nmonatlich unabhängig von der Leistung\n\n\nSoftware für Terminbuchung\nfix\nmonatliches Abo\n\n\nZahlungsanbietergebühren\nMischkosten\nmonatliche Grundgebühr (fix) plus transaktionsabhängige Komponente (variabel)\n\n\nAbschreibung Transporter\nfix\nplanmäßig unabhängig von aktueller Nutzung\n\n\nWerbung\nfix / entscheidungsabhängig\nKampagnenbudget unabhängig vom einzelnen Auftrag\n\n\nIT-Service und digitale Infrastruktur\nfix\nmonatliche Lizenz- und Systemkosten unabhängig von der Auslastung\n\n\nVerwaltungskosten\nüberwiegend fix\nfallen unabhängig vom einzelnen Auftrag an\n\n\n\nDie Einordnung ist teilweise diskussionsfähig. Entscheidend ist, dass die Begründung sachlogisch passt.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#aufgabe-4",
+    "href": "02-kostenarten.html#aufgabe-4",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "Aufgabe 4",
+    "text": "Aufgabe 4\nAufgabe 2 und Aufgabe 3 haben zwei voneinander unabhängige Dimensionen untersucht: Einzel- vs. Gemeinkosten einerseits, fix vs. variabel andererseits. Eine variable Kostenposition ist nicht automatisch eine Einzelkostenposition, und dasselbe gilt umgekehrt.\nOrdnen Sie mindestens vier Kostenpositionen aus der Datentabelle in die Matrix ein. Begründen Sie jede Zuordnung in einem Satz.\n\n\n\n\nEinzelkosten\nGemeinkosten\n\n\n\n\nVariable Kosten\n\n\n\n\nFixe Kosten\n\n\n\n\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEinzelkosten\nGemeinkosten\n\n\n\n\nVariable Kosten\nErsatzteile für Reparaturen\nMinijob-Hilfe in Stoßzeiten\n\n\nFixe Kosten\n—\nMiete Werkstattfläche, Gehalt Moritz Werkstatt\n\n\n\nDie Kombination „fixe Einzelkosten” tritt im CampusBikes-Beispiel nicht auf. Sie ist theoretisch möglich (etwa bei einer Spezialmaschine, die exklusiv für einen Auftragstyp gemietet wird), in der Praxis aber selten.\nKernbotschaft: Variable Kosten sind nicht automatisch Einzelkosten, und Gemeinkosten können fix oder variabel sein. Für kurzfristige Preisentscheidungen sind die variablen Kosten maßgeblich – unabhängig davon, ob es sich um Einzel- oder Gemeinkosten handelt.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#aufgabe-5",
+    "href": "02-kostenarten.html#aufgabe-5",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "Aufgabe 5",
+    "text": "Aufgabe 5\nCampusBikes plant für den kommenden Monat mit Reparaturaufträgen. Für eine vereinfachte Betrachtung gelten:\n\n\n\nGröße\nWert\n\n\n\n\nFixkosten pro Monat\n15.000 €\n\n\nvariable Kosten pro Reparaturauftrag\n32 €\n\n\ngeplanter Reparaturpreis netto\n75 €\n\n\n\n\n\n\n\n\n\nHinweisVereinfachung: variable Gemeinkosten im Fixkostenblock\n\n\n\nDie Fixkosten von 15.000 € umfassen alle Gemeinkosten: sowohl echte Fixkosten (z. B. Miete, Gehälter) als auch variable Gemeinkosten (z. B. Minijob-Hilfe, nutzungsabhängiger Strom), die sich nicht sinnvoll pro Reparaturauftrag zurechnen lassen. Variable Gemeinkosten werden daher vereinfachend im Fixkostenblock erfasst. Diese Konvention wird in der Deckungsbeitragsrechnung in Kapitel 5 konsequent weitergeführt.\n\n\nBerechnen Sie für 100, 200 und 300 Reparaturaufträge:\n\nvariable Gesamtkosten\nGesamtkosten\nStückkosten pro Reparaturauftrag\nDeckungsbeitrag pro Auftrag\nStellen Sie das Kostenverhalten grafisch dar. Wie entwickeln sich Gesamtkosten und Stückkosten bei steigender Ausbringungsmenge?\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReparaturen\nvariable Gesamtkosten\nGesamtkosten\nStückkosten\nDeckungsbeitrag pro Auftrag\n\n\n\n\n100\n3.200 €\n18.200 €\n182,00 €\n43 €\n\n\n200\n6.400 €\n21.400 €\n107,00 €\n43 €\n\n\n300\n9.600 €\n24.600 €\n82,00 €\n43 €\n\n\n\nRechenweg:\n\nvariable Gesamtkosten = Menge × 32 €\nGesamtkosten = Fixkosten + variable Gesamtkosten\nStückkosten = Gesamtkosten / Menge\nDeckungsbeitrag pro Auftrag = Preis – variable Kosten = 75 € – 32 € = 43 €\n\nGrafische Darstellung:\n\n\n\n\n\nKostenverhalten im Reparaturbereich – Gesamtkosten\n\n\n\n\n\n\n\n\n\nStückkosten sinken mit steigender Ausbringungsmenge\n\n\n\n\nDie Gesamtkosten steigen linear mit der Ausbringungsmenge. Die Stückkosten sinken, weil sich die Fixkosten auf immer mehr Aufträge verteilen. Sie nähern sich asymptotisch den variablen Stückkosten (32 €) an.\nFür CampusBikes bedeutet das: Eine höhere Auslastung senkt die Stückkosten und verbessert die Wirtschaftlichkeit, solange ausreichend Kapazität vorhanden ist.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#aufgabe-6",
+    "href": "02-kostenarten.html#aufgabe-6",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "Aufgabe 6",
+    "text": "Aufgabe 6\nCampusBikes möchte einige Gemeinkosten für die nächste Analyse auf die Leistungsbereiche Reparatur, Verkauf und Verleih/Abo verteilen.\nBeurteilen Sie, welcher Verteilungsschlüssel jeweils sachlogisch geeignet ist.\n\n\n\nGemeinkostenart\nBetrag\n\n\n\n\nMiete Werkstattfläche\n3.063 €\n\n\nStrom Werkstatt\n650 €\n\n\nWerbung\n1.000 €\n\n\nVerwaltungskosten\n2.500 €\n\n\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 6\n\n\n\n\n\n\n\n\n\n\n\n\n\nGemeinkostenart\ngeeigneter Schlüssel\nBegründung\n\n\n\n\nMiete Werkstattfläche\ngenutzte Fläche\nRaumkosten entstehen durch Flächennutzung\n\n\nStrom Werkstatt\nMaschinenstunden / Nutzungszeit\nStrom hängt teilweise von der Nutzung der Werkstatt ab\n\n\nWerbung\nKampagnenfokus\nWerbung sollte dort belastet werden, wo sie Wirkung erzeugen soll\n\n\nVerwaltungskosten\nAnzahl Vorgänge\nVerwaltung entsteht häufig durch Bestellungen, Rechnungen, Termine und Kundenkontakte\n\n\n\nEs gibt nicht immer genau einen richtigen Schlüssel.\nWichtig ist, dass der Schlüssel wirtschaftlich nachvollziehbar ist und nicht nur rechnerisch bequem gewählt wird.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "02-kostenarten.html#was-campusbikes-jetzt-weiß",
+    "href": "02-kostenarten.html#was-campusbikes-jetzt-weiß",
+    "title": "Kapitel 2 – Kostenartenrechnung",
+    "section": "Was CampusBikes jetzt weiß",
+    "text": "Was CampusBikes jetzt weiß\nCampusBikes hat die Kostenstruktur für Jahr 2 systematisch aufbereitet:\n\n\n\n\n\n\n\nDimension\nErkenntnis\n\n\n\n\nWelche Kostenarten entstehen?\nMaterial-, Personal-, Kapital- und sonstige Kosten\n\n\nWie verhalten sich Kosten bei Mengenänderung?\nFix, variabel oder Mischkosten\n\n\nWelche Kosten sind direkt zurechenbar?\nEinzelkosten (z. B. Ersatzteile) vs. Gemeinkosten (z. B. Miete, Gehälter)\n\n\nWas kostet ein Reparaturauftrag an variablen Kosten?\n32 € (Grundlage für spätere Preis- und Deckungsbeitragsentscheidungen)\n\n\n\nCampusBikes entscheidet, die Gemeinkosten im nächsten Schritt auf Kostenstellen zu verteilen.\n\n\n\n\n\n\nTippWeiterarbeit\n\n\n\nIm nächsten Kapitel wird aus der Kostenartenübersicht ein einfacher Betriebsabrechnungsbogen aufgebaut.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Kapitel 2 – Kostenartenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html",
+    "href": "03-kostenstellen.html",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "",
+    "text": "Einleitung\nCampusBikes hat im letzten Kapitel die wichtigsten Kostenarten strukturiert. Hanna, Daniel und Mia wissen jetzt besser, welche Kosten entstehen.\nFür die nächste Entscheidung reicht das jedoch noch nicht aus. Viele Gemeinkosten entstehen nicht direkt für ein einzelnes Fahrrad oder eine einzelne Reparatur.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html#einleitung",
+    "href": "03-kostenstellen.html#einleitung",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "",
+    "text": "WichtigAusgangssituation\n\n\n\nFür spätere Preisentscheidungen muss das Team aber zusätzlich verstehen, wo Gemeinkosten entstehen und wie sie auf die Leistungsbereiche verteilt werden können.\nDaniel zieht die Kostenartenliste aus Kapitel 2 hervor: „Ich sehe, was wir ausgeben. Aber ich weiß immer noch nicht, ob die Werkstatt für sich allein profitabel ist oder ob sie von den anderen Bereichen quersubventioniert wird.”\n\n\n\n\n\n„Das liegt daran, dass wir die Gemeinkosten noch nirgends zugeordnet haben”, sagt Mia. „Miete, IT, Verwaltung…alles schwimmt noch im gemeinsamen Topf.”",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html#entscheidungsfrage",
+    "href": "03-kostenstellen.html#entscheidungsfrage",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "Entscheidungsfrage",
+    "text": "Entscheidungsfrage\nWie kann CampusBikes Gemeinkosten verursachungsgerecht auf Kostenstellen verteilen und daraus Zuschlagsätze für spätere Kalkulationen ableiten?\n\n\n\n\n\n\nHinweisVerbindung zu Kapitel 2: Woher kommen die Primärkosten?\n\n\n\nDie 15.000 € Gemeinkosten aus der Datentabelle in Kapitel 2 fließen als Primärkosten in den Betriebsabrechnungsbogen. Dabei gilt:\n\nIT-Service (1.500 €) und Verwaltungskosten (2.500 €) lassen sich direkt als eigene Kostenstellen identifizieren und werden als Hilfskostenstellen geführt.\nDie übrigen 11.000 € (darunter Gehalt Moritz, Minijob-Hilfe, Miete, Strom, Versicherung, Software, Zahlungsanbietergebühren, Abschreibung und Werbung) werden den drei Hauptkostenstellen Werkstatt, Verkauf und Verleih/Abo als Primärkosten zugewiesen.\nDie variablen Einzelkosten (Ersatzteile 3.600 €, Fahrradreifen 1.200 €) durchlaufen den BAB nicht, sondern werden direkt dem Kostenträger zugerechnet und tauchen daher in den Primärkosten nicht auf.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html#relevante-plandaten-für-jahr-2",
+    "href": "03-kostenstellen.html#relevante-plandaten-für-jahr-2",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "Relevante Plandaten für Jahr 2",
+    "text": "Relevante Plandaten für Jahr 2\nCampusBikes bildet folgende Kostenstellen:\n\n\n\nKostenstelle\nTyp\n\n\n\n\nWerkstatt\nHauptkostenstelle\n\n\nVerkauf\nHauptkostenstelle\n\n\nVerleih/Abo\nHauptkostenstelle\n\n\nVerwaltung\nHilfskostenstelle\n\n\nIT-Service\nHilfskostenstelle\n\n\n\nDie Primärkosten eines typischen Monats betragen:\n\n\n\nKostenstelle\nPrimärkosten\n\n\n\n\nWerkstatt\n6.000 €\n\n\nVerkauf\n3.000 €\n\n\nVerleih/Abo\n2.000 €\n\n\nVerwaltung\n2.500 €\n\n\nIT-Service\n1.500 €\n\n\n\nDie Hilfskostenstellen erbringen Leistungen für andere Kostenstellen:\n\n\n\nLeistender Bereich\nEmpfänger\nAnteil\n\n\n\n\nVerwaltung\nWerkstatt\n40 %\n\n\nVerwaltung\nVerkauf\n35 %\n\n\nVerwaltung\nVerleih/Abo\n15 %\n\n\nVerwaltung\nIT-Service\n10 %\n\n\n\n\n\n\nLeistender Bereich\nEmpfänger\nAnteil\n\n\n\n\nIT-Service\nWerkstatt\n50 %\n\n\nIT-Service\nVerkauf\n30 %\n\n\nIT-Service\nVerleih/Abo\n15 %\n\n\nIT-Service\nVerwaltung\n5 %",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html#aufgabe-1",
+    "href": "03-kostenstellen.html#aufgabe-1",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "Aufgabe 1",
+    "text": "Aufgabe 1\nErläutern Sie kurz den Zweck der Kostenstellenrechnung.\nWarum reicht die reine Kostenartenrechnung für CampusBikes nicht aus?\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 1\n\n\n\n\n\nDie Kostenartenrechnung beantwortet vor allem:\nWelche Kosten entstehen?\nDie Kostenstellenrechnung beantwortet zusätzlich:\nWo entstehen diese Kosten?\nFür CampusBikes ist das wichtig, weil viele Gemeinkosten nicht direkt einem Fahrrad, einer Reparatur oder einem Abo zugeordnet werden können. Erst über Kostenstellen kann das Team erkennen, welche Bereiche besonders viele Gemeinkosten verursachen.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html#aufgabe-2",
+    "href": "03-kostenstellen.html#aufgabe-2",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "Aufgabe 2",
+    "text": "Aufgabe 2\nWenden Sie mit den o.g. Daten das Treppenumlageverfahren an.\nReihenfolge:\n\nVerwaltung\nIT-Service\n\n\nErmitteln Sie die Endkosten der Hauptkostenstellen.\nErklären Sie die systematische Schwäche des Treppenumlageverfahrens: Welche Leistungsbeziehung zwischen den Hilfskostenstellen wird nicht berücksichtigt, und warum kann das zu einer ungenauen Kostenverteilung führen?\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 2\n\n\n\n\n\n\nSchritt 1: Verwaltung verteilen\nGesamtkosten Verwaltung: 2.500 €\n\n\n\nEmpfänger\nAnteil\nBetrag\n\n\n\n\nWerkstatt\n40 %\n1.000 €\n\n\nVerkauf\n35 %\n875 €\n\n\nVerleih/Abo\n15 %\n375 €\n\n\nIT-Service\n10 %\n250 €\n\n\n\nNeue Kosten IT-Service:\n[ 1.500 + 250 = 1.750 ]\n\n\nSchritt 2: IT-Service verteilen\nBeim Treppenumlageverfahren wird die Rückleistung an die Verwaltung nicht mehr berücksichtigt. Die verbleibenden Anteile werden daher auf 100 % hochgerechnet:\n\n\n\nEmpfänger\nursprünglicher Anteil\numgerechneter Anteil\n\n\n\n\nWerkstatt\n50 %\n52,63 %\n\n\nVerkauf\n30 %\n31,58 %\n\n\nVerleih/Abo\n15 %\n15,79 %\n\n\n\nVerteilung der IT-Kosten:\n\n\n\nEmpfänger\nBetrag\n\n\n\n\nWerkstatt\n921,05 €\n\n\nVerkauf\n552,63 €\n\n\nVerleih/Abo\n276,32 €\n\n\n\n\n\nEndkosten\n\n\n\nKostenstelle\nRechnung\nEndkosten\n\n\n\n\nWerkstatt\n6.000 + 1.000 + 921,05\n7.921,05 €\n\n\nVerkauf\n3.000 + 875 + 552,63\n4.427,63 €\n\n\nVerleih/Abo\n2.000 + 375 + 276,32\n2.651,32 €\n\n\n\n\n\nSchwäche des Treppenumlageverfahrens\nBeim Treppenumlageverfahren werden die Hilfskostenstellen in einer festgelegten Reihenfolge abgearbeitet. Sobald eine Kostenstelle ihre Kosten vollständig weitergegeben hat, erhält sie selbst keine weiteren Kosten mehr.\nIm CampusBikes-Beispiel: Der IT-Service liefert 5 % seiner Leistung an die Verwaltung. Diese Rückleistung wird ignoriert, weil die Verwaltung bereits vollständig abgerechnet wurde: Sie steht in der Reihenfolge vor dem IT-Service.\nFolge: Die Gesamtkosten des IT-Service werden zu niedrig angesetzt, weil die 5 % Verwaltungsleistung, die er empfängt, nicht mehr einfließen. Die Endkosten der Hauptkostenstellen sind dadurch leicht verzerrt.\nJe stärker die gegenseitigen Leistungsbeziehungen zwischen den Hilfskostenstellen, desto größer die potenzielle Ungenauigkeit und desto eher lohnt sich der höhere Rechenaufwand des Gleichungsverfahrens (Aufgabe 3).",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html#aufgabe-3",
+    "href": "03-kostenstellen.html#aufgabe-3",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "Aufgabe 3",
+    "text": "Aufgabe 3\nWenden Sie nun das Gleichungsverfahren an.\nBerücksichtigen Sie dabei die gegenseitigen Leistungen zwischen Verwaltung und IT-Service vollständig.\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 3\n\n\n\n\n\nDie Gesamtleistungsmenge jeder Hilfskostenstelle wird auf 100 Leistungseinheiten (LE) normiert. Die Verrechnungspreise \\(k_V\\) und \\(k_{IT}\\) (€/LE) sind die Unbekannten.\nGleichung für Verwaltung (gibt 100 LE ab, empfängt 5 LE von IT):\n\\[100 \\cdot k_V = 2.500 + 5 \\cdot k_{IT}\\]\nGleichung für IT-Service (gibt 100 LE ab, empfängt 10 LE von Verwaltung):\n\\[100 \\cdot k_{IT} = 1.500 + 10 \\cdot k_V\\]\nLösung des Gleichungssystems:\nAus der ersten Gleichung:\n\\[k_V = 25 + 0{,}05 \\cdot k_{IT}\\]\nEinsetzen in die zweite Gleichung:\n\\[100 \\cdot k_{IT} = 1.500 + 10 \\cdot (25 + 0{,}05 \\cdot k_{IT})\\]\n\\[100 \\cdot k_{IT} = 1.750 + 0{,}5 \\cdot k_{IT}\\]\n\\[99{,}5 \\cdot k_{IT} = 1.750\\]\n\\[k_{IT} \\approx 17{,}59 \\text{ €/LE}\\]\n\\[k_V = 25 + 0{,}05 \\times 17{,}59 \\approx 25{,}88 \\text{ €/LE}\\]\nGesamtkosten der Hilfskostenstellen (100 LE × exakter Verrechnungspreis):\n\\[K_V = 2.587{,}94 \\text{ €}\\]\n\\[K_{IT} = 1.758{,}79 \\text{ €}\\]\n\nVerteilung Verwaltung auf Hauptkostenstellen\n\n\n\nEmpfänger\nLeistungsmenge\nBetrag\n\n\n\n\nWerkstatt\n40 LE × \\(k_V\\) = 40 % × 2.587,94 €\n1.035,18 €\n\n\nVerkauf\n35 LE × \\(k_V\\) = 35 % × 2.587,94 €\n905,78 €\n\n\nVerleih/Abo\n15 LE × \\(k_V\\) = 15 % × 2.587,94 €\n388,19 €\n\n\n\n\n\nVerteilung IT-Service auf Hauptkostenstellen\n\n\n\nEmpfänger\nLeistungsmenge\nBetrag\n\n\n\n\nWerkstatt\n50 LE × \\(k_{IT}\\) = 50 % × 1.758,79 €\n879,40 €\n\n\nVerkauf\n30 LE × \\(k_{IT}\\) = 30 % × 1.758,79 €\n527,64 €\n\n\nVerleih/Abo\n15 LE × \\(k_{IT}\\) = 15 % × 1.758,79 €\n263,82 €\n\n\n\n\n\nEndkosten\n\n\n\nKostenstelle\nRechnung\nEndkosten\n\n\n\n\nWerkstatt\n6.000 + 1.035,18 + 879,40\n7.914,58 €\n\n\nVerkauf\n3.000 + 905,78 + 527,64\n4.433,42 €\n\n\nVerleih/Abo\n2.000 + 388,19 + 263,82\n2.652,01 €",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html#aufgabe-4",
+    "href": "03-kostenstellen.html#aufgabe-4",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "Aufgabe 4",
+    "text": "Aufgabe 4\nVergleichen Sie Treppenumlageverfahren und Gleichungsverfahren.\nWelche Methode sollte CampusBikes verwenden?\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 4\n\n\n\n\n\n\n\n\nKostenstelle\nTreppenumlage\nGleichungsverfahren\nDifferenz\n\n\n\n\nWerkstatt\n7.921,05 €\n7.914,58 €\n-6,47 €\n\n\nVerkauf\n4.427,63 €\n4.433,42 €\n+5,79 €\n\n\nVerleih/Abo\n2.651,32 €\n2.652,01 €\n+0,69 €\n\n\n\nDie Unterschiede sind hier gering.\nFür CampusBikes bedeutet das:\n\nDas Treppenumlageverfahren ist schneller und einfacher.\nDas Gleichungsverfahren ist theoretisch genauer.\nBei geringen gegenseitigen Leistungen reicht das Treppenumlageverfahren oft aus.\nBei stark verflochtenen Servicebereichen wäre das Gleichungsverfahren sinnvoller.\n\nManagemententscheidung:\nCampusBikes kann zunächst mit dem Treppenumlageverfahren arbeiten. Wenn IT und Verwaltung weiter wachsen, sollte auf das Gleichungsverfahren umgestellt werden.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html#aufgabe-5",
+    "href": "03-kostenstellen.html#aufgabe-5",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "Aufgabe 5",
+    "text": "Aufgabe 5\nBerechnen Sie auf Basis des Gleichungsverfahrens die Gemeinkostenzuschlagsätze für alle drei Hauptkostenstellen.\nZusätzliche Informationen zu den Bezugsgrößen:\n\n\n\n\n\n\n\n\n\nKostenstelle\nBezugsgröße\nBetrag pro Monat\nBegründung\n\n\n\n\nWerkstatt\nFertigungslöhne\n5.250 €\nReparatur ist arbeitsintensiv; Löhne spiegeln den Ressourceneinsatz wider\n\n\nVerkauf\nMaterialeinzelkosten (MEK)\n4.000 €\nTypischer MEK-Zuschlag im Handel; ca. 13 Fahrräder à Ø 300 € Einkaufspreis\n\n\nVerleih/Abo\nDirekte Personalkosten\n1.200 €\nStudentische Hilfskraft für Ausgabe, Rücknahme und Zustandsprüfung (~100 h × 12 €/h)\n\n\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 5\n\n\n\n\n\n\nWerkstatt\n\\[\\text{GK-Zuschlagsatz}_\\text{Werkstatt} = \\frac{7.914{,}58}{5.250} \\times 100 = 150{,}75\\%\\]\nFür 100 € Fertigungslöhne fallen rund 150,75 € Werkstattgemeinkosten an.\n\n\nVerkauf\n\\[\\text{GK-Zuschlagsatz}_\\text{Verkauf} = \\frac{4.433{,}42}{4.000} \\times 100 = 110{,}84\\%\\]\nFür 100 € Wareneinsatz fallen rund 110,84 € Verkaufsgemeinkosten an.\n\n\nVerleih/Abo\n\\[\\text{GK-Zuschlagsatz}_\\text{Verleih} = \\frac{2.652{,}01}{1.200} \\times 100 = 221{,}0\\%\\]\nFür 100 € direkte Personalkosten fallen rund 221 € Verleihgemeinkosten an.\n\n\nInterpretation im Vergleich\n\n\n\nKostenstelle\nEndkosten (GV)\nBezugsgröße\nGK-Zuschlagsatz\n\n\n\n\nWerkstatt\n7.914,58 €\n5.250 €\n150,75 %\n\n\nVerkauf\n4.433,42 €\n4.000 €\n110,84 %\n\n\nVerleih/Abo\n2.652,01 €\n1.200 €\n221,00 %\n\n\n\nDer hohe Zuschlagsatz beim Verleih überrascht auf den ersten Blick besonders Mia, die für das Abo-Geschäft zuständig ist:\n\n„Für jeden Euro, den ich direkt in den Verleih stecke, kommen noch mal 2,21 Euro Gemeinkosten dazu?“\n\nEr zeigt: Verleih mag pro Transaktion günstig wirken, bindet aber gemessen an den direkten Kosten überproportional viele Gemeinkosten für IT, Service und Verwaltung. Das ist eine erste wichtige Erkenntnis für spätere Sortimentsentscheidungen.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "03-kostenstellen.html#was-campusbikes-jetzt-weiß",
+    "href": "03-kostenstellen.html#was-campusbikes-jetzt-weiß",
+    "title": "Kapitel 3 – Kostenstellenrechnung",
+    "section": "Was CampusBikes jetzt weiß",
+    "text": "Was CampusBikes jetzt weiß\nCampusBikes verfügt nun über:\n\nverrechnete Kostenstellenkosten für alle Bereiche,\neinen Vergleich zwischen Treppenumlage- und Gleichungsverfahren,\nund Gemeinkostenzuschlagsätze für alle drei Hauptkostenstellen:\n\n\n\n\nKostenstelle\nGK-Zuschlagsatz\nBezugsgröße\n\n\n\n\nWerkstatt\n150,75 %\nFertigungslöhne\n\n\nVerkauf\n110,84 %\nMaterialeinzelkosten\n\n\nVerleih/Abo\n221,00 %\nDirekte Personalkosten\n\n\n\n\n\n\n\n\n\nTippWeiterarbeit\n\n\n\nIm nächsten Kapitel werden diese Zuschlagsätze genutzt, um je einen konkreten Kostenträger pro Bereich zu kalkulieren: eine Standard-Reparatur, ein Stadtfahrrad und ein Semester-Abo.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kapitel 3 – Kostenstellenrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html",
+    "href": "04-kostentraeger.html",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "",
+    "text": "Einleitung\nDas Studentenwerk der Hochschule ist auf das neue Start-Up aufmerksam geworden. Es möchte für das Wintersemester einen Rahmenvertrag mit CampusBikes abschließen:\nDas Studentenwerk würde dafür einen Paketpreis in Höhe von 5.500 € zahlen. Hanna, Daniel und Mia sind begeistert, aber unsicher: Zu welchem Preis könnten sie das Paket anbieten, ohne Verluste zu machen?\nAus Kapitel 3 kennen sie die Gemeinkostenzuschlagsätze für alle drei Bereiche:",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html#einleitung",
+    "href": "04-kostentraeger.html#einleitung",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "",
+    "text": "30 Standard-Inspektionen für Fahrräder von Erstsemesterstudierenden\n5 Stadtfahrräder für den Campusfuhrpark\n20 Monatsabos für Studierende mit eingeschränkter Mobilität\n\n\n\n\n\n\nKostenstelle\nGK-Zuschlagsatz\nBezugsgröße\n\n\n\n\nWerkstatt\n150,75 %\nFertigungslöhne\n\n\nVerkauf\n110,84 %\nMaterialeinzelkosten (MEK)\n\n\nVerleih/Abo\n221,00 %\nDirekte Personalkosten\n\n\n\n\n\n\n\n\n\nWichtigAusgangssituation\n\n\n\nCampusBikes kennt inzwischen die Kostenstruktur aller drei Bereiche. Jetzt muss das Team für jeden konkreten Kostenträger, also eine Reparatur, ein Fahrrad und ein Abo die tatsächlichen Selbstkosten ermitteln, um wirtschaftlich fundierte Angebotspreise setzen zu können.\nAls Hanna mit der Anfrage zu Daniel kommt, öffnet er seinen Laptop: „Ich soll dir sagen, was eine Reparatur kostet? Ich kann dir sagen, was Moritz kostet und was Ersatzteile kosten. Aber einen wirklich begründeten Preis hab ich noch nie ausgerechnet.”\n\n\n\n\n\n„Das ändern wir jetzt”, sagt Hanna. „Wir haben alles, was wir brauchen.”",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html#entscheidungsfrage",
+    "href": "04-kostentraeger.html#entscheidungsfrage",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "Entscheidungsfrage",
+    "text": "Entscheidungsfrage\nWas kostet CampusBikes eine Standard-Inspektion, ein Stadtfahrrad und ein Monatsabo und zu welchem Preis sollten diese angeboten werden?",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html#relevante-einzelkostendaten",
+    "href": "04-kostentraeger.html#relevante-einzelkostendaten",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "Relevante Einzelkostendaten",
+    "text": "Relevante Einzelkostendaten\nFür die Kalkulation liegen folgende Einzelkosten pro Einheit vor:\n\n\n\n\n\n\n\n\n\nKostenträger\nPosition\nBetrag\nHinweis\n\n\n\n\nStandard-Inspektion\nMaterialeinzelkosten (Ersatzteile)\n15,00 €\nBremsbeläge, Schrauben, Schmiermittel\n\n\nStandard-Inspektion\nFertigungslöhne\n20,00 €\n0,8 Std. × 25 €/Std. (Moritz)\n\n\nStadtfahrrad CampusBike Basic\nMaterialeinzelkosten (Einkaufspreis)\n120,00 €\nBezugspreis Großhandel\n\n\nMonatsabo\nDirekte Personalkosten\n12,00 €\nAusgabe, Einweisung, Rücknahme (1 Std. × 12 €/Std.)\n\n\n\nZusätzliche Info: Für die Divisionskalkulation im Verleihbereich betreut CampusBikes aktuell 100 aktive Abonnements pro Monat.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html#aufgabe-1",
+    "href": "04-kostentraeger.html#aufgabe-1",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "Aufgabe 1",
+    "text": "Aufgabe 1\nStellen Sie das Kalkulationsschema der Zuschlagskalkulation für den Werkstattbereich von CampusBikes auf.\nWelche Positionen fließen ein? Welche Rolle spielen die Zuschlagsätze aus Kapitel 3?\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 1\n\n\n\n\n\n\n\n\nSchritt\nPosition\nBerechnung\n\n\n\n\n1\nMaterialeinzelkosten (MEK)\ngegeben\n\n\n2\nFertigungslöhne (FEL)\ngegeben\n\n\n3\nFertigungsgemeinkosten (FGK)\nFEL × GK-Zuschlagsatz Werkstatt\n\n\n4\nSelbstkosten\nMEK + FEL + FGK\n\n\n5\nGewinnaufschlag\nSelbstkosten × Gewinnzuschlag (%)\n\n\n6\nAngebotspreis netto\nSelbstkosten + Gewinnaufschlag\n\n\n7\nUmsatzsteuer (19 %)\nAngebotspreis netto × 0,19\n\n\n8\nAngebotspreis brutto\nNetto + USt\n\n\n\nHinweis: Der GK-Zuschlagsatz aus dem BAB (Kapitel 3) deckt alle Gemeinkosten des Werkstattbereichs ab inklusive der anteiligen Verwaltungs- und IT-Kosten. Ein separater Verwaltungskostenzuschlag ist daher nicht notwendig.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html#aufgabe-2",
+    "href": "04-kostentraeger.html#aufgabe-2",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "Aufgabe 2",
+    "text": "Aufgabe 2\nKalkulieren Sie Selbstkosten und Angebotspreis für eine Standard-Inspektion.\nNutzen Sie den Werkstatt-Zuschlagsatz aus Kapitel 3 und nehmen Sie für den Gewinnaufschlag 15 % an. Die Umsatzsteuer beträgt 19 %.\nVergleichen Sie den Angebotspreis mit dem Planpreis aus Kapitel 2. Wie gut war die Planungsannahme der CampusBikes?\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 2\n\n\n\n\n\n\n\n\nPosition\nBetrag\n\n\n\n\nMaterialeinzelkosten (Ersatzteile)\n15,00 €\n\n\nFertigungslöhne (0,8 Std. × 25 €/Std.)\n20,00 €\n\n\nFertigungsgemeinkosten (150,75 % × 20,00 €)\n30,15 €\n\n\nSelbstkosten\n65,15 €\n\n\nGewinnaufschlag (15 %)\n9,77 €\n\n\nAngebotspreis netto\n74,92 €\n\n\nUmsatzsteuer (19 %)\n14,23 €\n\n\nAngebotspreis brutto\n89,15 €\n\n\n\nDer kalkulierte Nettoangebotspreis von rund 75 € entspricht dem Planpreis aus Kapitel 2. Das ist ein gutes Zeichen für die interne Konsistenz der Kostenrechnung.\nEin Gewinnaufschlag von 15 % ist für handwerkliche Dienstleistungen marktüblich und deckt unternehmerisches Risiko sowie den Einsatz von Hanna, Daniel und Mia ab.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html#aufgabe-3",
+    "href": "04-kostentraeger.html#aufgabe-3",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "Aufgabe 3",
+    "text": "Aufgabe 3\nKalkulieren Sie Selbstkosten und Angebotspreis für das Stadtfahrrad CampusBike Basic.\nNutzen Sie den GK-Zuschlagsatz des Verkaufsbereichs. Nehmen Sie für den Gewinnaufschlag 20 % an. Die Umsatzsteuer beträgt 19 %.\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 3\n\n\n\n\n\n\n\n\nPosition\nBetrag\n\n\n\n\nMaterialeinzelkosten (Einkaufspreis Großhandel)\n120,00 €\n\n\nGemeinkostenzuschlag Verkauf (110,84 % × 120,00 €)\n133,01 €\n\n\nSelbstkosten\n253,01 €\n\n\nGewinnaufschlag (20 %)\n50,60 €\n\n\nAngebotspreis netto\n303,61 €\n\n\nUmsatzsteuer (19 %)\n57,69 €\n\n\nAngebotspreis brutto\n361,30 €\n\n\n\nDer GK-Zuschlag von 133 € auf einen Einkaufspreis von 120 € wirkt auf den ersten Blick hoch. Er spiegelt aber die Realität kleiner Fachhandelsbetriebe wider: Ladenmiete, Personal, IT und Verwaltung schlagen mit über 100 % auf den Wareneinsatz durch.\nFür CampusBikes bedeutet das: Der Verkaufsbereich trägt eine hohe Gemeinkostenlast. Das Stadtfahrrad muss zu einem Marktpreis von rund 360 € (brutto) wettbewerbsfähig sein.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html#aufgabe-4",
+    "href": "04-kostentraeger.html#aufgabe-4",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "Aufgabe 4",
+    "text": "Aufgabe 4\nFür das Monatsabo entscheidet sich CampusBikes für die Divisionskalkulation statt der Zuschlagskalkulation.\n\nErklären Sie, warum die Divisionskalkulation hier sachgerechter ist als die Zuschlagskalkulation.\nErmitteln Sie Selbstkosten und Angebotspreis für ein Monatsabo. Nehmen Sie für den Gewinnaufschlag 20 % an. Die Umsatzsteuer beträgt 19 %.\nCampusBikes plant künftig zwei Abo-Stufen: Basis (Stadtrad) und Premium (E-Bike). Welche Kalkulationsmethode eignet sich dann und wie könnte die Berechnung aussehen?\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 4\n\n\n\n\n\na) Warum Divisionskalkulation?\nDie Divisionskalkulation eignet sich, wenn gleichartige Leistungen in großer Zahl erbracht werden und sich die Gesamtkosten proportional auf alle Einheiten verteilen lassen.\nBeim Monatsabo erbringt CampusBikes für alle Abonnenten im Wesentlichen dieselbe Leistung. Es gibt keine sinnvolle Einzelkostenbasis pro Abo, die eine Zuschlagskalkulation rechtfertigen würde. Die meisten Kosten entstehen pauschal für den gesamten Bestand (Fahrräder, Wartung, IT, Verwaltung), nicht für einzelne Kunden.\nb) Kalkulation Monatsabo (Divisionskalkulation)\n\n\n\nPosition\nBetrag\n\n\n\n\nGesamtkosten Verleih/Abo (aus Kapitel 3)\n2.652,01 €\n\n\nAktive Abonnements\n100\n\n\nSelbstkosten pro Abo\n26,52 €\n\n\nGewinnaufschlag (20 %)\n5,30 €\n\n\nAngebotspreis netto\n31,82 €\n\n\nUmsatzsteuer (19 %)\n6,05 €\n\n\nAngebotspreis brutto\n37,87 €\n\n\n\nWichtig: Die Selbstkosten hängen direkt von der Auslastung ab. Bei nur 50 aktiven Abos würden die Selbstkosten auf 53,04 € steigen. Der Angebotspreis müsste dann deutlich erhöht werden.\nc) Äquivalenzziffernkalkulation\nWenn CampusBikes zwei Abo-Stufen anbietet, können die Gesamtkosten nicht mehr gleichmäßig auf alle Einheiten verteilt werden: Das Premium-Abo verursacht höhere Kosten (teureres Fahrrad, mehr Wartung).\nLösung: Äquivalenzziffernkalkulation mit Kostenverhältnis Basis : Premium = 1,0 : 1,8.\n\n\n\nStufe\nAbos\nÄquivalenzziffer\nRecheneinheiten\n\n\n\n\nBasis\n70\n1,0\n70\n\n\nPremium\n30\n1,8\n54\n\n\nGesamt\n100\n\n124\n\n\n\nKosten pro Recheneinheit: 2.652,01 € ÷ 124 = 21,39 €\n\n\n\nStufe\nSelbstkosten pro Abo\n\n\n\n\nBasis\n21,39 € × 1,0 = 21,39 €\n\n\nPremium\n21,39 € × 1,8 = 38,50 €\n\n\n\nDie Äquivalenzziffernkalkulation liegt methodisch zwischen Divisions- und Zuschlagskalkulation: differenzierter als die reine Division, aber einfacher als die vollständige Zuschlagskalkulation.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html#aufgabe-5",
+    "href": "04-kostentraeger.html#aufgabe-5",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "Aufgabe 5",
+    "text": "Aufgabe 5\nFassen Sie die Kalkulationsergebnisse aller drei Kostenträger zusammen.\n\n\n\nKostenträger\nMethode\nSelbstkosten\nNetto\nGewinnaufschlag\n\n\n\n\nStandard-Inspektion\n\n\n\n\n\n\nStadtfahrrad CampusBike Basic\n\n\n\n\n\n\nMonatsabo\n\n\n\n\n\n\n\nWas fällt Ihnen beim Vergleich auf? Welche Empfehlung würden Sie CampusBikes für das Angebot an das Studentenwerk geben?\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKostenträger\nMethode\nSelbstkosten\nNetto\nBrutto\n\n\n\n\nStandard-Inspektion\nZuschlagskalkulation\n65,15 €\n74,92 €\n89,15 €\n\n\nStadtfahrrad CampusBike Basic\nZuschlagskalkulation\n253,01 €\n303,61 €\n361,30 €\n\n\nMonatsabo\nDivisionskalkulation\n26,52 €\n31,82 €\n37,87 €\n\n\n\n\n\n\nKostenträger\nAngebotsmenge\nEinzelpreis\nGesamtpreis\n\n\n\n\nStandard-Inspektion\n30\n89,15 €\n2.674,50 €\n\n\nStadtfahrrad CampusBike Basic\n5\n361,30 €\n1.806,50 €\n\n\nMonatsabo\n20\n37,87 €\n757,40 €\n\n\n\n\n\n5.238,40 €\n\n\n\nEmpfehlung an CampusBikes:\nDas Paket ist wirtschaftlich sehr attraktiv. Die angebotenen 5.500 € liegen sogar über den zu üblichen Konditionen kalkulierten Einzelpreisen. Bei einem solchen Paket wäre sogar ein (Mengen-)Rabatt möglich, sodass CampusBikes dem Studentenwerk preislich sogar noch entgegen kommen könnte.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "04-kostentraeger.html#was-campusbikes-jetzt-weiß",
+    "href": "04-kostentraeger.html#was-campusbikes-jetzt-weiß",
+    "title": "Kapitel 4 – Kostenträgerrechnung",
+    "section": "Was CampusBikes jetzt weiß",
+    "text": "Was CampusBikes jetzt weiß\nCampusBikes verfügt nun über:\n\nkalkulierte Selbstkosten für alle drei Leistungsbereiche,\nbegründete Angebotspreise für Reparatur, Fahrradverkauf und Verleih,\nund ein Verständnis dafür, welche Kalkulationsmethode wann sinnvoll ist.\n\n\n\n\n\n\n\nTippWeiterarbeit\n\n\n\nIm nächsten Kapitel stellt sich CampusBikes die Frage: Welche Leistungsbereiche tragen kurzfristig wirklich zum Ergebnis bei und wo liegt der Break-Even-Point?\nDie Grundlage dafür sind die Angebotspreise und variablen Kosten aus diesem Kapitel, die nun in eine Deckungsbeitragsrechnung einfließen.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Kapitel 4 – Kostenträgerrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html",
+    "href": "05-erfolgsrechnung.html",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "",
+    "text": "Einleitung\nCampusBikes ist in Jahr 2 voll operativ: Reparaturen laufen gut, der Fahrradverkauf hat begonnen, und das Abo-Modell gewinnt langsam Kunden. Doch beim Blick auf die Monatszahlen stellt Daniel fest: Das Unternehmen erwirtschaftet trotz Umsatz noch keinen sicheren Gewinn.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#einleitung",
+    "href": "05-erfolgsrechnung.html#einleitung",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "",
+    "text": "WichtigAusgangssituation\n\n\n\nDie Vollkostenrechnung aus Kapitel 4 zeigt, dass alle drei Leistungen über ihren Selbstkosten angeboten werden. Dennoch fragt sich das Team: Welche Leistungen tragen kurzfristig wirklich zum Ergebnis bei? Und: Wie viele Aufträge, Verkäufe und Abos braucht CampusBikes mindestens, um kostendeckend zu arbeiten?\nDer Monatsbericht zeigt: Alle Preise decken die Selbstkosten und dennoch ist das Betriebsergebnis −800 €. Das Team starrt auf dieselbe Zahl. Mia tippt auf den Ausdruck: „Entweder stimmt die Kalkulation nicht, oder wir stellen die falsche Frage.”\n\n\n\n\n\nMia hat recht: Die Vollkostenrechnung beantwortet eine andere Frage, nämlich ob ein Preis alle Kosten deckt. Was fehlt, ist der Blick auf das, was jede Leistung kurzfristig zum Ergebnis beiträgt. Und ab wann sie sich überhaupt lohnt…",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#entscheidungsfrage",
+    "href": "05-erfolgsrechnung.html#entscheidungsfrage",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Entscheidungsfrage",
+    "text": "Entscheidungsfrage\nWelche der drei Leistungsbereiche sind kurzfristig profitabel und wo liegt der Break-Even-Point?",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#plandaten-für-den-laufenden-monat",
+    "href": "05-erfolgsrechnung.html#plandaten-für-den-laufenden-monat",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Plandaten für den laufenden Monat",
+    "text": "Plandaten für den laufenden Monat\nDie folgende Übersicht fasst die relevanten Größen pro Einheit zusammen. Die Preise (gerundet) entstammen Kapitel 4, die variablen Kosten den Kapiteln 2 und 4.\n\n\n\n\nReparatur\nStadtfahrrad\nMonatsabo\n\n\n\n\nPreis pro Einheit\n75 €\n300 €\n32 €\n\n\nVariable Kosten pro Einheit\n32 €\n120 €\n12 €\n\n\nGeplante Menge pro Monat\n200\n20\n100\n\n\n\nDie Fixkosten sind zweistufig strukturiert. Bereichsfixkosten umfassen die Primärkosten, die direkt einem Bereich zuzurechnen sind und entfielen, wenn der Bereich geschlossen würde. Unternehmensfixkosten umfassen die Hilfskosten (Verwaltung + IT-Service aus Kapitel 3), die als gemeinsame Infrastruktur unabhängig davon anfallen, welche Bereiche betrieben werden:\n\n\n\nKostenebene\nBetrag\n\n\n\n\nBereichsfixkosten Werkstatt (Reparatur)\n6.000 €\n\n\nBereichsfixkosten Verkauf (Stadtfahrrad)\n3.000 €\n\n\nBereichsfixkosten Verleih/Abo (Monatsabo)\n2.000 €\n\n\nUnternehmensfixkosten (Verwaltung + IT-Service)\n4.000 €\n\n\nFixkosten gesamt\n15.000 €\n\n\n\n\n\n\n\n\n\nHinweisVereinfachung: Gemeinkosten als Fixkostenblock\n\n\n\nWie bereits in Kapitel 2 (Aufgabe 5) eingeführt: Alle Gemeinkosten, auch variable (z. B. Minijob-Hilfe, nutzungsabhängiger Strom), werden im Fixkostenblock erfasst, weil sie sich nicht verursachungsgerecht auf einzelne Leistungseinheiten zurechnen lassen.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#aufgabe-1",
+    "href": "05-erfolgsrechnung.html#aufgabe-1",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Aufgabe 1",
+    "text": "Aufgabe 1\nDas Studentenwerk möchte bei den 30 Reparaturen aus dem Rahmenvertrag einen Sonderrabatt aushandeln und bietet einen Pauschalpreis von 55 € pro Inspektion an.\n\nWürde CampusBikes unter Vollkostenrechnung (Kapitel 4) diesen Auftrag annehmen?\nWie lautet die Antwort unter Teilkostenrechnung?\nErläutern Sie, warum die Teilkostenrechnung für kurzfristige Preisentscheidungen besser geeignet ist als die Vollkostenrechnung.\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 1\n\n\n\n\n\na) Vollkostenrechnung\nSelbstkosten Standard-Inspektion (aus Kapitel 4): 65,15 €\n55 € &lt; 65,15 € → Der Angebotspreis deckt die Selbstkosten nicht. Unter Vollkostenrechnung würde CampusBikes den Auftrag ablehnen.\nb) Teilkostenrechnung\nVariable Kosten pro Inspektion: 32 €\n55 € &gt; 32 € → Deckungsbeitrag pro Inspektion = 55 − 32 = 23 €\nFür 30 Inspektionen: 30 × 23 € = 690 € zusätzlicher Deckungsbeitrag\nDieser Beitrag hilft, die Fixkosten des Unternehmens zu decken, die ohnehin anfallen. CampusBikes sollte den Auftrag annehmen solange freie Kapazität vorhanden ist.\nc) Warum Teilkostenrechnung für kurzfristige Entscheidungen?\nDie Vollkostenrechnung verteilt Fixkosten auf einzelne Einheiten. Das ergibt sinnvolle Angebotspreise für die Normalauslastung, ist aber für kurzfristige Entscheidungen irreführend.\nFixkosten fallen unabhängig davon an, ob der Zusatzauftrag angenommen wird oder nicht. Maßgeblich ist einzig, ob der Preis die variablen Kosten deckt und darüber hinaus einen Beitrag zur Deckung der Fixkosten leistet.\nFaustregel: Solange gilt Preis &gt; variable Kosten, ist jeder Auftrag kurzfristig besser als kein Auftrag.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#aufgabe-2",
+    "href": "05-erfolgsrechnung.html#aufgabe-2",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Aufgabe 2",
+    "text": "Aufgabe 2\nBerechnen Sie für alle drei Leistungsbereiche:\n\nden Deckungsbeitrag pro Einheit,\nden gesamten Deckungsbeitrag I pro Bereich,\nsowie den Gesamtdeckungsbeitrag I des Unternehmens.\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReparatur\nStadtfahrrad\nMonatsabo\nGesamt\n\n\n\n\nPreis\n75 €\n300 €\n32 €\n\n\n\n− Variable Kosten/Einheit\n32 €\n120 €\n12 €\n\n\n\n= DB pro Einheit\n43 €\n180 €\n20 €\n\n\n\n× Menge\n200\n20\n100\n\n\n\n= DB I gesamt\n8.600 €\n3.600 €\n2.000 €\n14.200 €\n\n\n\nDer Gesamtumsatz beträgt: 200 × 75 + 20 × 300 + 100 × 32 = 15.000 + 6.000 + 3.200 = 24.200 €\nDer DB I von 14.200 € steht zur Deckung der gesamten Fixkosten (15.000 €) zur Verfügung.\nInterpretation: Da DB I (14.200 €) kleiner als die Gesamtfixkosten (15.000 €) ist, macht CampusBikes in diesem Monat noch einen Verlust von 800 €.\nDen stärksten Beitrag liefert die Reparatur mit 8.600 € (61 % des Gesamt-DB I), gefolgt vom Fahrradverkauf (3.600 €) und dem Monatsabo (2.000 €).\nOb ein einzelner Bereich das Minus verursacht oder ob die gemeinsame Infrastruktur das eigentliche Problem ist, zeigt die mehrstufige Deckungsbeitragsrechnung in Aufgabe 3.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#aufgabe-3",
+    "href": "05-erfolgsrechnung.html#aufgabe-3",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Aufgabe 3",
+    "text": "Aufgabe 3\nErstellen Sie eine mehrstufige Deckungsbeitragsrechnung mit den Bereichsfixkosten aus der Datentabelle.\nWelche Schlussfolgerungen ziehen Sie für die Sortimentsgestaltung von CampusBikes?\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 3\n\n\n\n\n\n\n\n\n\nReparatur\nStadtfahrrad\nMonatsabo\nGesamt\n\n\n\n\nUmsatz\n15.000 €\n6.000 €\n3.200 €\n24.200 €\n\n\n− Variable Kosten\n6.400 €\n2.400 €\n1.200 €\n10.000 €\n\n\n= DB I\n8.600 €\n3.600 €\n2.000 €\n14.200 €\n\n\n− Bereichsfixkosten\n6.000 €\n3.000 €\n2.000 €\n11.000 €\n\n\n= DB II\n2.600 €\n600 €\n0 €\n3.200 €\n\n\n− Unternehmensfixkosten\n\n\n\n4.000 €\n\n\n= Betriebsergebnis\n\n\n\n−800 €\n\n\n\nInterpretation:\n\nAlle drei Bereiche erzielen einen nicht-negativen DB II: Die Reparatur trägt 2.600 €, der Fahrradverkauf 600 € und das Monatsabo deckt seine Bereichsfixkosten exakt (DB II = 0 €).\nDas Unternehmensminus von −800 € entsteht allein durch die Unternehmensfixkosten (Verwaltung + IT-Service: 4.000 €), die den DB-II-Überschuss von 3.200 € übersteigen.\n\nSortimentsentscheidung:\nKein Bereich sollte aufgegeben werden: Alle drei decken ihre direkten Kosten. Das eigentliche Problem liegt in der gemeinsamen Infrastruktur: Die 4.000 € Overhead (Verwaltung + IT) werden durch das laufende Geschäft noch nicht vollständig gedeckt.\nMittelfristig kann CampusBikes das Betriebsergebnis durch Wachstum in allen Bereichen verbessern. Jeder zusätzliche Euro DB II fließt direkt in die Deckung der Unternehmensfixkosten.\n\nInteraktive Deckungsbeitragsrechnung\nStellen Sie die Mengen für alle drei Bereiche ein und beobachten Sie, wie sich DB I, DB II und das Betriebsergebnis verändern.\n\n\nCode\nviewof m_rep  = Inputs.range([0, 400], {value: 200, step: 5, label: \"Reparaturen / Monat\"})\nviewof m_fahr = Inputs.range([0, 60],  {value: 20,  step: 1, label: \"Fahrräder / Monat\"})\nviewof m_abo  = Inputs.range([0, 200], {value: 100, step: 5, label: \"Abonnements / Monat\"})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode\ndb1_rep  = 43  * m_rep\ndb1_fahr = 180 * m_fahr\ndb1_abo  = 20  * m_abo\ndb1_ges  = db1_rep + db1_fahr + db1_abo\n\ndb2_rep  = db1_rep  - 6000\ndb2_fahr = db1_fahr - 3000\ndb2_abo  = db1_abo  - 2000\ndb2_ges  = db2_rep + db2_fahr + db2_abo\n\nergebnis = db2_ges - 4000\n\nfunction cell(v, bold = false) {\n  const col = v &lt; 0 ? \"#c0392b\" : v === 0 ? \"#555\" : \"#1a5253\"\n  const fw  = bold ? \"700\" : \"400\"\n  const abs = Math.abs(v).toLocaleString(\"de-DE\")\n  return `&lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:${col};font-weight:${fw};\"&gt;${v &lt; 0 ? \"−\" : \"\"}${abs} €&lt;/td&gt;`\n}\n\nhtml`&lt;table style=\"width:100%;font-size:0.93rem;border-collapse:collapse;\"&gt;\n  &lt;thead&gt;\n    &lt;tr style=\"background:#2c7a7b;color:#fff;\"&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:left;\"&gt;&lt;/th&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;Reparatur&lt;/th&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;Stadtfahrrad&lt;/th&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;Monatsabo&lt;/th&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;Gesamt&lt;/th&gt;\n    &lt;/tr&gt;\n  &lt;/thead&gt;\n  &lt;tbody&gt;\n    &lt;tr style=\"background:#f0f8f8;\"&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;\"&gt;DB I&lt;/td&gt;\n      ${cell(db1_rep)} ${cell(db1_fahr)} ${cell(db1_abo)} ${cell(db1_ges)}\n    &lt;/tr&gt;\n    &lt;tr&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;\"&gt;− Bereichsfixkosten&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;6.000 €&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;3.000 €&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;2.000 €&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;11.000 €&lt;/td&gt;\n    &lt;/tr&gt;\n    &lt;tr style=\"background:#f0f8f8;border-top:2px solid #d0d0d0;\"&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;font-weight:600;\"&gt;= DB II&lt;/td&gt;\n      ${cell(db2_rep, true)} ${cell(db2_fahr, true)} ${cell(db2_abo, true)} ${cell(db2_ges, true)}\n    &lt;/tr&gt;\n    &lt;tr&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;\"&gt;− Unternehmensfixkosten&lt;/td&gt;\n      &lt;td colspan=\"3\"&gt;&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;4.000 €&lt;/td&gt;\n    &lt;/tr&gt;\n    &lt;tr style=\"border-top:2px solid #2c7a7b;\"&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;font-weight:700;\"&gt;= Betriebsergebnis&lt;/td&gt;\n      &lt;td colspan=\"3\"&gt;&lt;/td&gt;\n      ${cell(ergebnis, true)}\n    &lt;/tr&gt;\n  &lt;/tbody&gt;\n&lt;/table&gt;`",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#interaktive-deckungsbeitragsrechnung",
+    "href": "05-erfolgsrechnung.html#interaktive-deckungsbeitragsrechnung",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Interaktive Deckungsbeitragsrechnung",
+    "text": "Interaktive Deckungsbeitragsrechnung\nStellen Sie die Mengen für alle drei Bereiche ein und beobachten Sie, wie sich DB I, DB II und das Betriebsergebnis verändern.\n\n\nCode\nviewof m_rep  = Inputs.range([0, 400], {value: 200, step: 5, label: \"Reparaturen / Monat\"})\nviewof m_fahr = Inputs.range([0, 60],  {value: 20,  step: 1, label: \"Fahrräder / Monat\"})\nviewof m_abo  = Inputs.range([0, 200], {value: 100, step: 5, label: \"Abonnements / Monat\"})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode\ndb1_rep  = 43  * m_rep\ndb1_fahr = 180 * m_fahr\ndb1_abo  = 20  * m_abo\ndb1_ges  = db1_rep + db1_fahr + db1_abo\n\ndb2_rep  = db1_rep  - 6000\ndb2_fahr = db1_fahr - 3000\ndb2_abo  = db1_abo  - 2000\ndb2_ges  = db2_rep + db2_fahr + db2_abo\n\nergebnis = db2_ges - 4000\n\nfunction cell(v, bold = false) {\n  const col = v &lt; 0 ? \"#c0392b\" : v === 0 ? \"#555\" : \"#1a5253\"\n  const fw  = bold ? \"700\" : \"400\"\n  const abs = Math.abs(v).toLocaleString(\"de-DE\")\n  return `&lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:${col};font-weight:${fw};\"&gt;${v &lt; 0 ? \"−\" : \"\"}${abs} €&lt;/td&gt;`\n}\n\nhtml`&lt;table style=\"width:100%;font-size:0.93rem;border-collapse:collapse;\"&gt;\n  &lt;thead&gt;\n    &lt;tr style=\"background:#2c7a7b;color:#fff;\"&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:left;\"&gt;&lt;/th&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;Reparatur&lt;/th&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;Stadtfahrrad&lt;/th&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;Monatsabo&lt;/th&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;Gesamt&lt;/th&gt;\n    &lt;/tr&gt;\n  &lt;/thead&gt;\n  &lt;tbody&gt;\n    &lt;tr style=\"background:#f0f8f8;\"&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;\"&gt;DB I&lt;/td&gt;\n      ${cell(db1_rep)} ${cell(db1_fahr)} ${cell(db1_abo)} ${cell(db1_ges)}\n    &lt;/tr&gt;\n    &lt;tr&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;\"&gt;− Bereichsfixkosten&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;6.000 €&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;3.000 €&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;2.000 €&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;11.000 €&lt;/td&gt;\n    &lt;/tr&gt;\n    &lt;tr style=\"background:#f0f8f8;border-top:2px solid #d0d0d0;\"&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;font-weight:600;\"&gt;= DB II&lt;/td&gt;\n      ${cell(db2_rep, true)} ${cell(db2_fahr, true)} ${cell(db2_abo, true)} ${cell(db2_ges, true)}\n    &lt;/tr&gt;\n    &lt;tr&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;\"&gt;− Unternehmensfixkosten&lt;/td&gt;\n      &lt;td colspan=\"3\"&gt;&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;color:#555;\"&gt;4.000 €&lt;/td&gt;\n    &lt;/tr&gt;\n    &lt;tr style=\"border-top:2px solid #2c7a7b;\"&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;font-weight:700;\"&gt;= Betriebsergebnis&lt;/td&gt;\n      &lt;td colspan=\"3\"&gt;&lt;/td&gt;\n      ${cell(ergebnis, true)}\n    &lt;/tr&gt;\n  &lt;/tbody&gt;\n&lt;/table&gt;`",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#aufgabe-4",
+    "href": "05-erfolgsrechnung.html#aufgabe-4",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Aufgabe 4",
+    "text": "Aufgabe 4\nErmitteln Sie den Break-Even-Point für den Reparaturbereich.\n\nBerechnen Sie die Break-Even-Menge rechnerisch.\nBerechnen Sie den Sicherheitskoeffizienten und interpretieren Sie ihn.\nStellen Sie den Break-Even-Point grafisch dar.\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 4\n\n\n\n\n\na) Break-even-Menge\n\\[\nx_{BE} = \\frac{\\text{Bereichsfixkosten Reparatur}}{\\text{DB pro Einheit}} = \\frac{6.000}{43} \\approx 140 \\text{ Aufträge}\n\\]\nAb 140 Aufträgen deckt der Reparaturbereich seine Bereichsfixkosten. Jeder weitere Auftrag erhöht den DB II und damit den Beitrag zur Deckung der Unternehmensfixkosten.\nHinweis zur Rechnung: Das rechnerische Ergebnis (139,53) wird auf 140 aufgerundet, da es keinen halben Auftrag gibt.\nb) Sicherheitskoeffizient\n\\[\nSK = \\frac{\\text{Ist-Menge} - \\text{Break-even-Menge}}{\\text{Ist-Menge}} = \\frac{200 - 140}{200} = 30\\%\n\\]\nCampusBikes kann die geplante Reparaturmenge um 30 % unterschreiten, bevor der Reparaturbereich seine direkten Kosten nicht mehr deckt. Das ist eine solide Sicherheitsmarge: Der Bereich ist gegenüber normalen Nachfrageschwankungen gut abgesichert.\nc) Grafische Darstellung\n\n\n\n\n\nBreak-even-Analyse im Reparaturbereich\n\n\n\n\nDie Grafik zeigt: Unterhalb von 140 Aufträgen übersteigen die Bereichskosten den Umsatz (Verlustzone auf Bereichsebene). Bei der aktuellen Menge von 200 Aufträgen liegt CampusBikes 60 Aufträge oberhalb des Break-evens; der Reparaturbereich ist damit gut abgesichert.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#aufgabe-5",
+    "href": "05-erfolgsrechnung.html#aufgabe-5",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Aufgabe 5",
+    "text": "Aufgabe 5\nDas Team diskutiert drei Szenarien für den Reparaturbereich. Analysieren Sie jeweils die Auswirkung auf Break-Even-Menge, Sicherheitskoeffizient und monatliches Betriebsergebnis des Bereichs.\n\n\n\n\n\n\n\nSzenario\nVeränderung\n\n\n\n\nA\nReparaturpreis steigt auf 80 € (z.B. durch Qualitätspositionierung)\n\n\nB\nVariable Kosten steigen um 10 % (z.B. durch teurere Ersatzteile)\n\n\nC\nBereichsfixkosten steigen um 10 % (z.B. durch Mieterhöhung)\n\n\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 5\n\n\n\n\n\nAusgangssituation (Referenz): DB = 43 €, BEP = 140 Aufträge, SK = 30 %, DB II = 2.600 €\n\nSzenario A: Preis auf 80 €\n\nNeuer DB = 80 − 32 = 48 €\nBEP = 6.000 / 48 = 125 Aufträge\nSK = (200 − 125) / 200 = 37,5 %\nDB II = 200 × 48 − 6.000 = 3.600 €\n\nEffekt: Die Preiserhöhung senkt den Break-Even-Punkt deutlich und erhöht die Sicherheitsmarge auf 37,5 %. Der DB II steigt um fast 40 %. Jeder zusätzliche Euro Preis wirkt auf alle Einheiten. Die Auswirkung auf das Betriebsergebnis ist überproportional.\n\nSzenario B: Variable Kosten +10 % (35,20 €)\n\nNeuer DB = 75 − 35,20 = 39,80 €\nBEP = 6.000 / 39,80 = 151 Aufträge\nSK = (200 − 151) / 200 = 24,5 %\nDB II = 200 × 39,80 − 6.000 = 1.960 €\n\nEffekt: Steigende Materialkosten treffen direkt die Marge. Der Break-Even-Punkt steigt, die Sicherheitsmarge sinkt spürbar. Der Reparaturbereich bleibt aber mit 24,5 % SK solide profitabel. CampusBikes sollte Ersatzteilpreise dennoch im Blick behalten.\n\nSzenario C: Bereichsfixkosten +10 % (6.600 €)\n\nDB unverändert: 43 €\nBEP = 6.600 / 43 = 154 Aufträge\nSK = (200 − 154) / 200 = 23 %\nDB II = 200 × 43 − 6.600 = 2.000 €\n\nEffekt: Fixkostensteigerungen verschieben die Gewinnschwelle nach oben, ohne den Deckungsbeitrag pro Einheit zu verändern. Der Bereich bleibt mit 23 % SK noch gut abgesichert. Eine Mieterhöhung von 10 % wäre spürbar, aber verkraftbar.\n\nZusammenfassung\n\n\n\nSzenario\nBEP\nSicherheitskoeff.\nDB II\n\n\n\n\nAusgangssituation\n140\n30,0 %\n2.600 €\n\n\nA: Preis +5 €\n125\n37,5 %\n3.600 €\n\n\nB: Var. Kosten +10 %\n151\n24,5 %\n1.960 €\n\n\nC: Fixkosten +10 %\n154\n23,0 %\n2.000 €\n\n\n\nFür CampusBikes ist eine Preisanpassung (Szenario A) die wirkungsvollste Stellschraube: Sie senkt den Break-Even-Punkt am stärksten und erhöht gleichzeitig den DB II. Kosten- und Fixkostensteigerungen (Szenarien B und C) belasten die Marge, bringen den Bereich aber nicht in existenzielle Schwierigkeiten. Die Ausgangssituation mit 30 % SK ist dafür gut genug aufgestellt.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#interaktiver-break-even-rechner",
+    "href": "05-erfolgsrechnung.html#interaktiver-break-even-rechner",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Interaktiver Break-Even-Rechner",
+    "text": "Interaktiver Break-Even-Rechner\nDieser interaktive Break-Even-Rechner dient der optionalen Vertiefung der Auswirkungen einzelner Änderungen auf die Ergebnisse der Break-Even-Analyse. Die Ausgangswerte entsprechen dem Reparaturbereich aus Aufgabe 4. Verändern Sie die Schieberegler und beobachten Sie, wie sich Break-Even-Punkt und Sicherheitskoeffizient verschieben.\n\n\nCode\nviewof preis = Inputs.range([40, 150], {\n  value: 75, step: 1,\n  label: \"Preis pro Auftrag (€)\"\n})\nviewof vk = Inputs.range([10, 70], {\n  value: 32, step: 1,\n  label: \"Variable Kosten pro Auftrag (€)\"\n})\nviewof fk = Inputs.range([2000, 15000], {\n  value: 6000, step: 100,\n  label: \"Bereichsfixkosten (€)\"\n})\nviewof menge_ist = Inputs.range([50, 400], {\n  value: 200, step: 5,\n  label: \"Ist-Menge (Aufträge/Monat)\"\n})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode\ndb    = preis - vk\nbep   = db &gt; 0 ? Math.ceil(fk / db) : null\nsk    = (bep !== null && menge_ist &gt; bep)\n          ? ((menge_ist - bep) / menge_ist * 100).toFixed(1) + \" %\"\n          : \"— (Verlustzone)\"\ndb2   = menge_ist * db - fk\n\nfmt = v =&gt; v.toLocaleString(\"de-DE\") + \" €\"\n\nhtml`&lt;table style=\"width:100%;font-size:0.93rem;border-collapse:collapse;\"&gt;\n  &lt;thead&gt;\n    &lt;tr style=\"background:#2c7a7b;color:#fff;\"&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:left;\"&gt;Kennzahl&lt;/th&gt;\n      &lt;th style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;Wert&lt;/th&gt;\n    &lt;/tr&gt;\n  &lt;/thead&gt;\n  &lt;tbody&gt;\n    &lt;tr style=\"background:#f0f8f8;\"&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;\"&gt;Deckungsbeitrag pro Auftrag&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;${fmt(db)}&lt;/td&gt;\n    &lt;/tr&gt;\n    &lt;tr&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;\"&gt;Break-Even-Menge&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;${bep !== null ? bep + \" Aufträge\" : \"— (DB ≤ 0)\"}&lt;/td&gt;\n    &lt;/tr&gt;\n    &lt;tr style=\"background:#f0f8f8;\"&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;\"&gt;Sicherheitskoeffizient&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;\"&gt;${sk}&lt;/td&gt;\n    &lt;/tr&gt;\n    &lt;tr&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;font-weight:600;\"&gt;DB II bei Ist-Menge&lt;/td&gt;\n      &lt;td style=\"padding:0.4rem 0.8rem;text-align:right;font-weight:600;color:${db2 &gt;= 0 ? \"#1a5253\" : \"#c0392b\"};\"&gt;${fmt(db2)}&lt;/td&gt;\n    &lt;/tr&gt;\n  &lt;/tbody&gt;\n&lt;/table&gt;`\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode\nxMax = Math.max(menge_ist * 1.6, bep ? bep * 1.6 : 0, 300)\npts  = Array.from({length: 80}, (_, i) =&gt; (i / 79) * xMax)\n\numsatzPts = pts.map(x =&gt; ({x, y: preis * x}))\nkostenPts = pts.map(x =&gt; ({x, y: fk + vk * x}))\n\nbepAnnotation  = bep ? [{x: bep,       y: fk * 0.45, label: `BEP: ${bep}`}]       : []\nistAnnotation  = [{x: menge_ist, y: preis * menge_ist * 0.25, label: `Ist: ${menge_ist}`}]\n\nPlot.plot({\n  width: 560, height: 280, marginLeft: 75,\n  x: {label: \"Aufträge / Monat\", nice: true},\n  y: {label: null, tickFormat: d =&gt; (d / 1000).toFixed(0) + \" T€\", nice: true},\n  marks: [\n    Plot.line(umsatzPts,  {x: \"x\", y: \"y\", stroke: \"#0072B2\", strokeWidth: 2}),\n    Plot.line(kostenPts,  {x: \"x\", y: \"y\", stroke: \"#D55E00\", strokeWidth: 2}),\n    bep ? Plot.ruleX([bep],       {stroke: \"#aaaaaa\", strokeDasharray: \"4,3\"}) : null,\n    Plot.ruleX([menge_ist],       {stroke: \"#2c7a7b\", strokeDasharray: \"4,3\"}),\n    Plot.text(bepAnnotation,  {x: \"x\", y: \"y\", text: \"label\", fill: \"#777\", fontSize: 11, dx: 6}),\n    Plot.text(istAnnotation,  {x: \"x\", y: \"y\", text: \"label\", fill: \"#2c7a7b\", fontSize: 11, dx: 6}),\n    Plot.text(\n      [{x: xMax * 0.05, y: preis * xMax * 0.93}],\n      {x: \"x\", y: \"y\", text: () =&gt; \"Umsatz\", fill: \"#0072B2\", fontSize: 11}\n    ),\n    Plot.text(\n      [{x: xMax * 0.05, y: fk + vk * xMax * 0.93}],\n      {x: \"x\", y: \"y\", text: () =&gt; \"Gesamtkosten\", fill: \"#D55E00\", fontSize: 11}\n    ),\n  ].filter(Boolean)\n})",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "05-erfolgsrechnung.html#was-campusbikes-jetzt-weiß",
+    "href": "05-erfolgsrechnung.html#was-campusbikes-jetzt-weiß",
+    "title": "Kapitel 5 – Erfolgsrechnung",
+    "section": "Was CampusBikes jetzt weiß",
+    "text": "Was CampusBikes jetzt weiß\nCampusBikes weiß nun:\n\nAlle drei Bereiche decken ihre direkten Kosten: Die Reparatur trägt 2.600 € DB II, der Fahrradverkauf 600 € und das Monatsabo deckt seine Bereichsfixkosten exakt.\nDas Unternehmensminus von −800 € entsteht allein durch die Unternehmensfixkosten (Verwaltung + IT: 4.000 €), die den DB-II-Überschuss von 3.200 € übersteigen. Kein einzelner Bereich ist das Problem: Die geteilte Infrastruktur ist der Engpass.\nDas Unternehmen macht im laufenden Monat noch einen kleinen Verlust (−800 €) und braucht klare Ziele, um gegenzusteuern.\n\n\n\n\n\n\n\nTippWeiterarbeit\n\n\n\nHanna legt den Ausdruck auf den Tisch. „Wir schreiben rote Zahlen, aber ich weiß jetzt, wo das Problem liegt.” Dann erinnert sie kurz daran, dass der Studentenwerk-Vertrag soeben unterzeichnet wurde. Mehr Fahrradverkäufe im nächsten Monat sind damit so gut wie sicher.\nIm letzten Kapitel geht es darum, wie CampusBikes diese Erkenntnisse in ein Steuerungssystem überführt: mit Kennzahlen, Soll-Ist-Vergleichen und einem ersten Entwurf für Balanced Scorecard und OKR.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Kapitel 5 – Erfolgsrechnung</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html",
+    "href": "06-controlling.html",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "",
+    "text": "Einleitung\nMonat 2 in Jahr 2 ist abgeschlossen. Hanna, Daniel und Mia blicken auf ein gemischtes Bild: Weniger Reparaturen als geplant, aber deutlich mehr Fahrradverkäufe und wachsendes Abo-Geschäft. Der Studentenwerk-Vertrag, den Hanna Ende Monat 1 unterzeichnet hatte, zeigt erste Wirkung: 8 der 28 verkauften Fahrräder gingen direkt an den Campusfuhrpark. Das Betriebsergebnis hat sich gegenüber dem Vormonat verbessert, aber ein kleines Minus bleibt.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html#einleitung",
+    "href": "06-controlling.html#einleitung",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "",
+    "text": "WichtigManagementproblem\n\n\n\nDas Team stellt fest: Die Zahlen sind da, aber das Steuern aus dem Bauchgefühl heraus wird mit drei Leistungsbereichen zunehmend schwieriger. Hanna formuliert es so: „Wir wissen jetzt, was es kostet und was wir verdienen. Aber wie stellen wir sicher, dass wir uns jeden Monat in die richtige Richtung bewegen?”\nCampusBikes verfügt inzwischen über ein vollständiges Bild seiner Kosten- und Ergebnisstruktur. Was fehlt, ist ein Steuerungssystem: Kennzahlen, Ziele und Instrumente, die sicherstellen, dass das Team fokussiert bleibt und rechtzeitig erkennt, wenn etwas aus dem Ruder läuft.\n\n\n\n\n\nAuf dem Tisch liegen drei offene Laptops: Daniel hat seine Werkstattzahlen in einer Tabellenkalkulation, Mia trackt Abo-Zu- und -Abgänge auf einem Zettel, Hanna überblickt den Verkauf aus dem Gedächtnis. Jede Person steuert ihren Bereich, aber niemand sieht das Gesamtbild.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html#entscheidungsfrage",
+    "href": "06-controlling.html#entscheidungsfrage",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "Entscheidungsfrage",
+    "text": "Entscheidungsfrage\nWelche Kennzahlen und Steuerungsinstrumente helfen CampusBikes, die richtigen Prioritäten zu setzen und zielorientiert zu handeln?",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html#ist-zahlen-monat-2-mit-plan-vergleich",
+    "href": "06-controlling.html#ist-zahlen-monat-2-mit-plan-vergleich",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "Ist-Zahlen Monat 2 (mit Plan-Vergleich)",
+    "text": "Ist-Zahlen Monat 2 (mit Plan-Vergleich)\n\n\n\n\n\n\n\n\n\n\nKennzahl\nPlan\nIst\nAbw. abs.\nAbw. %\n\n\n\n\nReparaturaufträge\n200\n175\n−25\n−12,5 %\n\n\nFahrräder verkauft\n20\n28\n+8\n+40,0 %\n\n\nAktive Abonnements\n100\n115\n+15\n+15,0 %\n\n\nDB I Reparatur\n8.600 €\n7.525 €\n−1.075 €\n−12,5 %\n\n\nDB I Fahrrad\n3.600 €\n5.040 €\n+1.440 €\n+40,0 %\n\n\nDB I Abo\n2.000 €\n2.300 €\n+300 €\n+15,0 %\n\n\nDB I gesamt\n14.200 €\n14.865 €\n+665 €\n+4,7 %\n\n\nBereichsfixkosten\n11.000 €\n11.000 €\n0 €\n0 %\n\n\nUnternehmensfixkosten\n4.000 €\n4.000 €\n0 €\n0 %\n\n\nBetriebsergebnis\n−800 €\n−135 €\n+665 €\n—",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html#aufgabe-1",
+    "href": "06-controlling.html#aufgabe-1",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "Aufgabe 1",
+    "text": "Aufgabe 1\nHanna schlägt vor, Moritz künftig an der Anzahl abgeschlossener Reparaturen pro Tag zu messen um die Auslastung der Werkstatt zu steigern.\n\nErklären Sie allgemein: Wie beeinflussen Kennzahlen und Ziele das Verhalten von Mitarbeitenden?\nWelche unerwünschten Effekte könnte die Kennzahl „Reparaturen pro Tag” bei Moritz auslösen?\nWie könnte CampusBikes die Steuerung der Werkstatt besser gestalten?\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 1\n\n\n\n\n\na) Wie Kennzahlen Verhalten steuern\nKennzahlen lenken Aufmerksamkeit. Was gemessen wird, gewinnt an Bedeutung; was nicht gemessen wird, tritt in den Hintergrund. Menschen optimieren tendenziell das, woran sie gemessen und beurteilt werden.\nZiele und Kennzahlen erfüllen damit drei Funktionen:\n\nOrientierung: Sie zeigen, worauf es ankommt.\nKoordination: In Teams sorgen gemeinsame Kennzahlen dafür, dass alle in dieselbe Richtung arbeiten.\nMotivation: Erreichbare Ziele fördern Engagement; unerreichbare Ziele wirken demotivierend.\n\nb) Mögliche Fehlanreize bei „Reparaturen pro Tag”\nMoritz könnte versuchen, seine Kennzahl zu maximieren, indem er:\n\nReparaturen schneller abarbeitet, als es die Qualität erlaubt → mehr Folgeschäden, Kundenbeschwerden\neinfache Reparaturen bevorzugt und aufwendige Aufträge verzögert oder meidet\nTeile nur provisorisch repariert, um das Ticket schnell zu schließen\n\nKeines dieser Verhaltensweisen liegt im Interesse von CampusBikes, aber alle sind eine rationale Reaktion auf eine einseitige Kennzahl.\nc) Bessere Steuerung der Werkstatt\nEine einzige Kennzahl reicht selten aus. Sinnvoller ist ein ausgewogenes Set, das verschiedene Dimensionen abdeckt:\n\n\n\nDimension\nKennzahl\n\n\n\n\nEffizienz\nReparaturen pro Arbeitstag\n\n\nQualität\nAnteil Reparaturen ohne Folgebeanstandung\n\n\nKundenzufriedenheit\nBewertung auf Campus-Plattform (Ø Sterne)\n\n\nWirtschaftlichkeit\nDB I pro Reparatur\n\n\n\nDie Kombination schützt vor Optimierung auf Kosten anderer Ziele.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html#aufgabe-2",
+    "href": "06-controlling.html#aufgabe-2",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "Aufgabe 2",
+    "text": "Aufgabe 2\nEntwickeln Sie ein Kennzahlenset für CampusBikes mit je 2–3 finanziellen und 2–3 nichtfinanziellen Kennzahlen pro Bereich.\nBeurteilen Sie außerdem: Welche Aussagekraft hat die Kennzahl „Umsatz pro Monat” und wo stößt sie an ihre Grenzen?\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 2\n\n\n\n\n\nKennzahlenset CampusBikes\n\n\n\n\n\n\n\n\nBereich\nFinanzielle Kennzahlen\nNichtfinanzielle Kennzahlen\n\n\n\n\nReparatur\nDB I/Auftrag, DB II Reparatur, Reparaturanteil am Gesamtumsatz\nØ Reparaturzeit , Beanstandungsquote, Auslastungsgrad Werkstatt\n\n\nFahrradverkauf\nDB I/Fahrrad, Lagerumschlag, Verkaufsquote (Beratung → Kauf)\nKundenzufriedenheit, Wiederkaufquote, Ø Beratungszeit\n\n\nVerleih/Abo\nDB I/Abo, Abo-Bestand, Churn-Rate\nAktive Abonnements, Nutzungsfrequenz, Ø Abo-Laufzeit\n\n\nGesamt\nBetriebsergebnis, DB I gesamt, Fixkostendeckungsgrad\nGesamtkundenbewertung, Beschwerden/Monat, Teamzufriedenheit\n\n\n\nGrenzen der Kennzahl „Umsatz pro Monat”\nUmsatz zeigt, wie viel CampusBikes verkauft, aber nicht, ob es dabei verdient. Ein hoher Umsatz mit niedrigen Deckungsbeiträgen ist schlechter als ein geringerer Umsatz mit soliden Margen.\nKonkret für CampusBikes: Der Fahrradverkauf erzeugt pro Einheit 300 € Umsatz, aber mit variablen Kosten von 120 € und hohen Bereichsfixkosten bleibt wenig übrig. Umsatz allein würde den Verkaufsbereich besser aussehen lassen, als er wirtschaftlich ist.\nFaustregel: Umsatz ist ein Aktivitätsindikator, kein Erfolgsindikator. Er sollte immer mit Deckungsbeitrags- oder Ergebniskennzahlen kombiniert werden.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html#aufgabe-3",
+    "href": "06-controlling.html#aufgabe-3",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "Aufgabe 3",
+    "text": "Aufgabe 3\nAnalysieren Sie die folgenden drei Situationen bei CampusBikes. Identifizieren Sie jeweils den Fehlanreiz und erklären Sie, welches Verhalten er auslösen könnte.\n\n\n\n\n\n\n\nSituation\nBeschreibung\n\n\n\n\nA\nDer Verkaufsbereich wird am monatlichen Umsatz gemessen.\n\n\nB\nDas Abo-Team wird an der Zahl der Neuabonnements pro Monat gemessen.\n\n\nC\nCampusBikes misst den Erfolg des gesamten Unternehmens nur am Betriebsergebnis des laufenden Monats.\n\n\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 3\n\n\n\n\n\nSituation A: Steuerung Verkauf über Umsatz\nFehlanreiz: Das Verkaufsteam maximiert den Umsatz, nicht den Deckungsbeitrag.\nMögliches Verhalten:\n\nBevorzugen teurer Fahrräder, auch wenn günstigere für den Kunden besser passen\nRabatte vermeiden, um Umsatz hochzuhalten, auch wenn ein Rabatt den Kunden gewinnen würde\nKeine Rücksicht auf Lagerkosten oder Kapitalbindung\n\nBesser: Steuerung über DB I pro Verkauf, kombiniert mit Kundenzufriedenheitskennzahl.\n\nSituation B: Steuerung Abo über Neuabonnements\nFehlanreiz: Das Team optimiert Neuanmeldungen, ignoriert aber Kündigungen (Churn).\nMögliches Verhalten: - Aggressive Werbung für neue Kunden, kaum Pflege bestehender Kunden - Abo-Bestand stagniert trotz hoher Neuanmeldungen, weil viele kündigen - Qualitätsprobleme (schlechte Fahrräder, langsamer Service) werden nicht adressiert, weil sie nicht gemessen werden\nBesser: Steuerung über Netto-Abo-Wachstum (Neuzugänge − Kündigungen) und Churn-Rate.\n\nSituation C: Steuerung über kurzfristiges Betriebsergebnis\nFehlanreiz: Das Team optimiert den aktuellen Monat auf Kosten der Zukunft.\nMögliches Verhalten: - Verzicht auf Investitionen in neue Fahrräder oder Marketing, um Kosten zu senken - Ablehnen von Projekten mit langfristigem Potenzial (z.B. Aufbau Abo-Kundenstamm), weil sie kurzfristig Kosten verursachen - Keine Ausbildung oder Weiterentwicklung, da dies ebenfalls das Monatsergebnis belastet\nBesser: Mischung aus kurzfristigen Ergebniskennzahlen und langfristigen Wachstums- und Investitionskennzahlen, etwa über eine Balanced Scorecard.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html#aufgabe-4",
+    "href": "06-controlling.html#aufgabe-4",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "Aufgabe 4",
+    "text": "Aufgabe 4\nAnalysieren Sie die Soll-Ist-Abweichungen aus Monat 2 (siehe Datentabelle am Anfang des Kapitels).\n\nWelche Abweichungen sind aus Ihrer Sicht kritisch und welche sind eher positiv zu bewerten?\nFormulieren Sie für jede der drei Abweichungen beim DB I eine mögliche Ursache und eine konkrete Managementmaßnahme.\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 4\n\n\n\n\n\na) Bewertung der Abweichungen\n\n\n\n\n\n\n\n\nBereich\nAbweichung DB I\nBewertung\n\n\n\n\nReparatur\n−1.075 €\nKritisch: Reparatur ist der größte DB-I-Beitrag. Weniger Aufträge als geplant belasten das Gesamtergebnis spürbar.\n\n\nFahrradverkauf\n+1.440 €\nPositiv: Deutlich über Plan. Möglicher Semesterbeginn-Effekt mit höherer Kaufbereitschaft.\n\n\nMonatsabo\n+300 €\nPositiv, aber moderat: Wachstum in die richtige Richtung; Zielauslastung noch nicht erreicht.\n\n\nGesamt\n+665 €\nLeicht positiv: Besser als geplant, aber das Betriebsergebnis bleibt negativ. Der Trend stimmt.\n\n\n\nb) Ursachen und Maßnahmen\nReparatur (−25 Aufträge, −1.075 € DB I)\nMögliche Ursache: Semesterbeginn. Studierende sind neu am Campus, haben ihre Fahrräder noch nicht oder sind noch nicht in der Routine, Reparaturen zu beauftragen.\nMaßnahme: Gezielte Werbung zu Semesterbeginn (z.B. Aushänge, Campus-App, Kooperation mit Studierendenwerk), Aktionsangebot „Semesterstart-Check” für 49 € statt 75 €.\n\nFahrradverkauf (+8 Fahrräder, +1.440 € DB I)\nMögliche Ursache: Semesterbeginn-Effekt. Erstsemester kaufen Fahrräder für den Campusalltag. Zudem könnte das Studentenwerk-Paket (Kap. 4) zum Abschluss gekommen sein.\nMaßnahme: Lagerbestand für zukünftige Semesterbeginne erhöhen, um Nachfragespitzen bedienen zu können. Prüfen: War die Marge bei den zusätzlichen Verkäufen auf Planniveau?\n\nMonatsabo (+15 Abonnements, +300 € DB I)\nMögliche Ursache: Mund-zu-Mund-Empfehlungen unter Studierenden. Eventuell hat auch ein Instagram-Post von Mia zur Semesterbeginn-Kampagne beigetragen.\nMaßnahme: Den Wachstumstrend aktiv unterstützen (Empfehlungsprämie für bestehende Kunden, Erstsemester-Paket). Beobachten: Wie entwickelt sich die Churn-Rate ab Monat 3?",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html#aufgabe-5",
+    "href": "06-controlling.html#aufgabe-5",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "Aufgabe 5",
+    "text": "Aufgabe 5\nCampusBikes möchte ein einfaches Steuerungssystem einführen. Hanna schlägt eine Balanced Scorecard vor, Daniel bevorzugt OKR.\n\nSkizzieren Sie eine Balanced Scorecard für CampusBikes mit je einer Kennzahl und einem Zielwert pro Perspektive.\nFormulieren Sie alternativ ein OKR-Set mit einem Objective und drei Key Results für das kommende Quartal.\nVergleichen Sie beide Ansätze: Was passt besser zu CampusBikes in dieser Phase und warum?\n\n\n\n\n\n\n\nHinweisMusterlösung Aufgabe 5\n\n\n\n\n\na) Balanced Scorecard CampusBikes\nDie BSC betrachtet das Unternehmen aus vier Perspektiven und stellt sicher, dass finanzielle und nichtfinanzielle Ziele gleichgewichtig verfolgt werden.\n\n\n\n\n\n\n\n\n\nPerspektive\nZiel\nKennzahl\nZielwert\n\n\n\n\nFinanzen\nProfitabilität erreichen\nBetriebsergebnis\n≥ 0 € bis Ende Q2\n\n\nKunden\nEmpfehlungsbereitschaft steigern\nØ Kundenbewertung (Campus-Plattform)\n≥ 4,5 / 5,0\n\n\nInterne Prozesse\nReparaturqualität sichern\nBeanstandungsquote\n≤ 5 %\n\n\nLernen & Entwicklung\nKernprozesse standardisieren\nDokumentierte Reparaturabläufe\n≥ 3 bis Q2-Ende\n\n\n\nDie vier Perspektiven bilden eine Ursache-Wirkungskette: Standardisierte Abläufe (L&E) ermöglichen gleichmäßigere Reparaturqualität → weniger Beanstandungen (Interne Prozesse) → zufriedenere Kunden empfehlen CampusBikes weiter → mehr Aufträge und Deckungsbeitrag → positives Finanzergebnis.\n\nb) OKR-Set für das kommende Quartal\nObjective: CampusBikes hat sich als die verlässliche erste Anlaufstelle für Fahrradbedarf auf dem Campus etabliert.\n\n\n\n\n\n\n\n\nKey Result\nMessgröße\nZielwert\n\n\n\n\nKR1\nAnteil Reparaturen nach dokumentierter Checkliste abgeschlossen\n≥ 90 %\n\n\nKR2\nPersönliche Follow-up-Kontakte mit Bestandskunden\n≥ 20 pro Monat\n\n\nKR3\nAktiv initiierte Erstkontakte mit neuen Zielgruppen am Campus (Fachschaften, Wohnheime, Sportzentrum)\n≥ 5 pro Monat\n\n\n\nOKR-Prinzip: Das Objective ist qualitativ und inspirierend, die Key Results sind konkret messbar. Am Quartalsende wird offen bewertet, wie weit die Ziele erreicht wurden (0–100 %).\nDas OKR-Set entspricht den Qualitätsansprüchen an gute OKRs: Das Objective beschreibt einen abgeschlossenen Zustand und ist Outcome-orientiert. Es beschreibt, was am Ende gilt, nicht was getan wurde. Die drei Key Results sind Lead Measures: Sie beschreiben unmittelbar beeinflussbare Aktivitäten, nicht deren Ergebnisse. Sie sind mehrdimensional (Prozessqualität, Kundenbindung, Marktpräsenz) und unabhängig voneinander messbar. Jedes KR beantwortet die Frage „Wie erreichen wir das Objective?” aus einem anderen Blickwinkel: konsequente Qualitätsprozesse (KR1), aktive Kundenpflege (KR2) und gezielte Sichtbarkeit am Campus (KR3).\n\nc) Vergleich: BSC vs. OKR für CampusBikes\n\n\n\n\n\n\n\n\nMerkmal\nBalanced Scorecard\nOKR\n\n\n\n\nStruktur\nVier Perspektiven, dauerhaft\nFlexibel, quartalsweise\n\n\nAufwand\nHöher (Aufbau und Pflege)\nNiedrig (schnell einsetzbar)\n\n\nStärke\nVollständigkeit, Verknüpfungen\nFokus, Einfachheit, Agilität\n\n\nSchwäche\nKann bürokratisch wirken\nKann Ziele verengen\n\n\nPassung CampusBikes\nMittelfristig sinnvoll\nJetzt ideal, schnell einführbar\n\n\n\nEmpfehlung: In der aktuellen Wachstumsphase empfiehlt sich OKR durch den klarer Fokus auf die drei entscheidenden Größen Key Results. Die BSC kann eingeführt werden, wenn das Unternehmen größer wird und mehr Steuerungsebenen braucht.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  },
+  {
+    "objectID": "06-controlling.html#ergebnis-campusbikes-am-ende-von-jahr-2",
+    "href": "06-controlling.html#ergebnis-campusbikes-am-ende-von-jahr-2",
+    "title": "Kapitel 6 – Instrumente des Controllings",
+    "section": "Ergebnis: CampusBikes am Ende von Jahr 2",
+    "text": "Ergebnis: CampusBikes am Ende von Jahr 2\nHanna, Daniel und Mia haben in diesem Semester einen langen Weg zurückgelegt.\n\n\n\n\n\n\n\n\nKapitel\nFrage\nErkenntnis\n\n\n\n\n1\nWarum reicht die GuV nicht aus?\nExternes RW zeigt das Gesamtergebnis und nicht, wo es entsteht.\n\n\n2\nWelche Kosten entstehen?\nKostenarten, Fix- vs. variable Kosten, Einzel- vs. Gemeinkosten.\n\n\n3\nWo entstehen Gemeinkosten?\nBAB verteilt Kosten auf Werkstatt, Verkauf und Verleih.\n\n\n4\nWas kostet ein Produkt?\nZuschlagskalkulation liefert Selbstkosten und Angebotspreise.\n\n\n5\nWelche Leistungen lohnen sich?\nAlle Bereiche decken ihre direkten Kosten; die geteilte Infrastruktur (Verwaltung + IT) ist der Engpass.\n\n\n6\nWie steuern wir CampusBikes?\nKennzahlen, Soll-Ist-Analyse, BSC und OKR geben Orientierung.\n\n\n\n\n\n\n\n\n\nTippAbschluss der Fallstudie\n\n\n\nCampusBikes hat jetzt das Fundament für eine professionelle Unternehmenssteuerung. Das Betriebsergebnis tendiert gegen null, aber auf dem Tisch liegt bereits die nächste konkrete Entscheidung.\nMia will die Fahrradflotte für den Verleih erweitern: mehr Kapazität, schneller zum Break-Even-Point, aber kurzfristig höhere Fixkosten. Daniel hat ausgerechnet, dass rund 20 zusätzliche Reparaturaufträge pro Monat ausreichen würden, um CampusBikes dauerhaft in die Gewinnzone zu bringen. Hanna glaubt, dass ein zweites Studentenwerk-Paket im nächsten Semester realistisch ist, wenn die Kundenbewertungen stimmen.\n\n\n\n\n\nDrei Szenarien, eine Entscheidung, ein Steuerungssystem. Das interne Rechnungswesen hat seinen Zweck erfüllt: Es macht wirtschaftliche Entscheidungen sichtbar, begründbar und steuerbar.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kapitel 6 – Instrumente des Controllings</span>"
+    ]
+  }
+]

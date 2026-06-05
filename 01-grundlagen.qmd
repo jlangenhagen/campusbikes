@@ -1,0 +1,195 @@
+---
+title: "Kapitel 1 – Grundlagen internes Rechnungswesen"
+---
+
+## Einleitung
+
+CampusBikes startet in Jahr 2. Hanna, Daniel und Mia schauen auf den Jahresabschluss aus Jahr 1: Das Unternehmen ist gewachsen. In der GuV sehen die drei Umsätze, Personalaufwand, Materialaufwand, Abschreibungen und einen Jahresüberschuss.
+
+Trotzdem bleibt eine zentrale Frage offen:
+
+::: {.callout-important title="Ausgangssituation"}
+Der Jahresabschluss zeigt, **ob CampusBikes insgesamt erfolgreich war**.  
+
+Er zeigt aber nicht ausreichend, **welche Leistungen sich wirklich lohnen**: Reparatur, Fahrradverkauf oder Verleih?
+
+Daniel blättert durch die Unterlagen der GuV: „Ich hab dieses Jahr über 200 Reparaturen gemacht. Aber ich kann hier nicht erkennen, ob die Werkstatt uns Geld gebracht hat oder gekostet hat."
+
+Mia nickt: „Beim Verleih ist es noch undurchsichtiger. Ich weiß nicht, ob unsere Abonnements profitabel sind oder ob wir draufzahlen."
+
+![](assets/Kapitel1.jpg){fig-align="center" width="400"}
+
+Hanna: „Und beim Fahrradverkauf sehe ich nur den Gesamtumsatz. Nicht, was nach Wareneinsatz und anteiligen Kosten wirklich übrig bleibt."
+
+:::
+
+Bevor CampusBikes weiterrechnet, müssen Hanna, Daniel und Mia eine wichtige Unterscheidung klären:
+
+::: {.callout-tip title="Merkhilfe"}
+Das **externe Rechnungswesen** blickt vor allem auf Zahlungen, Aufwendungen und Erträge.
+
+Das **interne Rechnungswesen** fragt stärker nach Kosten, Leistungen und Entscheidungsinformationen.
+:::
+
+| Perspektive | Typische Begriffe | Leitfrage |
+|---|---|---|
+| Zahlungsbezogen | Auszahlung / Einzahlung | Fließt Geld ab oder zu? |
+| Erfolgsbezogen im externen Rechnungswesen | Aufwand / Ertrag | Wird das externe Ergebnis beeinflusst? |
+| Entscheidungsbezogen im internen Rechnungswesen | Kosten / Leistung | Welche wirtschaftlichen Werte entstehen für interne Entscheidungen? |
+
+## Entscheidungsfrage
+
+Welche zusätzlichen Informationen braucht CampusBikes aus dem internen Rechnungswesen, um die drei Leistungsbereiche besser steuern zu können?
+
+## Relevante Ausgangsdaten aus Jahr 1
+
+| Größe | Betrag |
+|---|---:|
+| Umsatzerlöse | 55.000 € |
+| sonstige Erträge | 150 € |
+| Materialaufwand | -10.500 € |
+| Personalaufwand | -30.000 € |
+| Abschreibungen | -3.400 € |
+| sonstige Aufwendungen | -600 € |
+| Steuern | -3.195 € |
+| **Jahresüberschuss** | **7.455 €** |
+
+Zusätzlich wissen die Gründer:innen:
+
+| Leistungsbereich | Verantwortlichkeit | Beobachtung |
+|---|---|---|
+| Fahrradverkauf | Hanna | Gute Einzelumsätze, aber Wareneinsatz notwendig |
+| Reparatur | Daniel | Viele Aufträge, aber hoher Zeitaufwand |
+| Verleih | Mia | Regelmäßige Nachfrage, aber Wartung und Ausfälle |
+| Verwaltung | alle | Viel Zeit für Organisation und Administration |
+
+---
+
+## Aufgabe 1
+
+Erklären Sie kurz, warum die GuV aus Jahr 1 allein nicht ausreicht, um zu entscheiden, welcher Leistungsbereich ausgebaut werden sollte.
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 1"}
+
+Die GuV zeigt nur das **Gesamtergebnis** von CampusBikes.
+
+Sie beantwortet nicht, welcher Leistungsbereich welchen Beitrag zum Unternehmenserfolg leistet.
+
+Für Managemententscheidungen fehlen insbesondere:
+
+- Kosten je Leistungsbereich
+- variable und fixe Kosten
+- Gemeinkostenverteilung
+- kalkulatorische Kosten
+- Deckungsbeiträge einzelner Angebote
+
+:::
+
+---
+
+## Aufgabe 2
+
+Ordnen Sie die folgenden Vorgänge den Begriffen **Auszahlung**, **Aufwand**, **Kosten**, **Einzahlung**, **Ertrag** und **Leistung** zu.
+
+| Vorgang | Zuordnung |
+|---|---|
+| CampusBikes zahlt die Monatsmiete für die Werkstatt per Banküberweisung. | |
+| Ein Kunde zahlt bar für eine Reparatur. | |
+| Der Transporter wird bilanziell abgeschrieben. | |
+| Daniel repariert ein Fahrrad für einen Freund kostenlos, um Werbung zu machen. | |
+| Mia arbeitet unbezahlt in der Verwaltung mit. | |
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 2"}
+
+| Vorgang | mögliche Zuordnung |
+|---|---|
+| CampusBikes zahlt die Monatsmiete für die Werkstatt per Banküberweisung. | Auszahlung, Aufwand und Kosten |
+| Ein Kunde zahlt bar für eine Reparatur. | Einzahlung, Ertrag und Leistung |
+| Der Transporter wird bilanziell abgeschrieben. | Aufwand und in der Regel deckungsgleiche Kosten |
+| Daniel repariert ein Fahrrad für einen Freund kostenlos, um Werbung zu machen. | keine Einzahlung, kein Ertrag; intern kann der Ressourceneinsatz trotzdem als Kosten betrachtet werden |
+| Mia arbeitet unbezahlt in der Verwaltung mit. | keine Auszahlung, kein Aufwand; intern Zusatzkosten, weil ihre Arbeitszeit wirtschaftlich nicht kostenlos ist |
+
+:::
+
+---
+
+## Aufgabe 3
+
+Nennen Sie zwei Beispiele, bei denen das interne Rechnungswesen anders rechnet als das externe Rechnungswesen.
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 3"}
+
+Mögliche Beispiele:
+
+- kalkulatorischer Unternehmerlohn 
+- kalkulatorische Abschreibung
+- Anderskosten bei Abschreibungen
+- Zusatzkosten ohne Gegenstück im externen Rechnungswesen
+
+:::
+
+---
+
+## Aufgabe 4
+
+Entscheiden Sie für folgende Fälle: Anderskosten, Zusatzkosten oder Grundkosten?
+
+| Fall | Anderskosten, Zusatzkosten oder Grundkosten? |
+|---|---|
+| Der Transporter wird extern mit 3.400 € pro Jahr abgeschrieben, intern aber mit 4.000 €. | |
+| Mia arbeitet regelmäßig unbezahlt in der Verwaltung mit. | |
+| Die handelsrechtliche Abschreibung entspricht exakt der kalkulatorischen Abschreibung. | |
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 4"}
+
+| Fall | Einordnung |
+|---|---|
+| Der Transporter wird extern mit 3.400 € pro Jahr abgeschrieben, intern aber mit 4.000 €. | Anderskosten |
+| Mia arbeitet regelmäßig unbezahlt in der Verwaltung mit. | Zusatzkosten |
+| Die handelsrechtliche Abschreibung entspricht exakt der kalkulatorischen Abschreibung. | Grundkosten |
+
+Anderskosten entstehen, wenn ein Sachverhalt sowohl extern als auch intern erfasst wird, aber mit unterschiedlicher Höhe.
+
+Zusatzkosten entstehen, wenn intern Kosten berücksichtigt werden, obwohl im externen Rechnungswesen kein Aufwand vorliegt.
+
+:::
+
+---
+
+## Aufgabe 5
+
+Formulieren Sie eine Managementfrage, die CampusBikes mit Hilfe des internen Rechnungswesens beantworten sollte.
+
+::: {.callout-note collapse="true" title="Musterlösung Aufgabe 5"}
+
+Mögliche Managementfragen:
+
+- Welche Leistung ist für CampusBikes wirtschaftlich am attraktivsten?
+- Soll CampusBikes Reparaturen oder Verleih ausbauen?
+- Welche Kosten entstehen tatsächlich durch Werkstatt, Verkauf und Verleih?
+- Reichen die aktuellen Preise aus?
+
+:::
+
+
+---
+
+## Das interne Rechnungswesen im Überblick
+
+CampusBikes hat verstanden: Die GuV allein reicht für gute Entscheidungen nicht aus. Jetzt müssen die Informationen Schritt für Schritt interner aufbereitet werden.
+
+| Teilbereich | Leitfrage | Rolle in der Fallstudie |
+|---|---|---|
+| Kostenartenrechnung | Welche Kosten entstehen? | Ausgangspunkt für die interne Strukturierung |
+| Kostenstellenrechnung | Wo entstehen die Kosten? | Verteilung auf Werkstatt, Verkauf, Verleih und Verwaltung |
+| Kostenträgerrechnung | Wofür entstehen die Kosten? | Kalkulation einzelner Leistungen und Angebote |
+| Erfolgsrechnung | Welche Leistungen lohnen sich? | Grundlage für Sortiments- und Strukturentscheidungen |
+| Controlling | Wie steuern wir CampusBikes? | Kennzahlen, Ziele und Maßnahmen |
+
+CampusBikes entscheidet, die Aufwendungen für interne Zwecke neu zu strukturieren.
+
+::: {.callout-tip title="Weiterarbeit"}
+Im nächsten Kapitel wird aus den externen Aufwendungen eine **interne Kostenartenübersicht** erstellt.
+
+Die Leitfrage lautet dann: **Welche Kosten entstehen bei CampusBikes überhaupt?**
+:::
